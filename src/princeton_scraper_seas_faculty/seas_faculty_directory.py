@@ -67,6 +67,7 @@ def _from_tag_or_string_to_string(tag_or_string: typing.Union[str, bs4.element.T
     Returns text, given either a string or a BeautifulSoup DOM subtree.
 
     :param tag_or_string: A BeautifulSoup `bs4.element.Tag` or `str`
+
     :return: The text content of that tag
     """
     if type(tag_or_string) is str:
@@ -84,6 +85,7 @@ def parse_affiliation_and_rank(tag_or_string: typing.Union[str, bs4.element.Tag]
 
     :param tag_or_string: The DOM subtree for the directory item's caption (<H4></H4>),
     as a BeautifulSoup `bs4.element.Tag` or `str`
+
     :return: A dictionary with two fields, `"rank"` and `"affiliations"`
     """
     s = _from_tag_or_string_to_string(tag_or_string)
@@ -115,6 +117,7 @@ def parse_directory_item(block: bs4.element.Tag) -> SeasFacultyInformation:
     of a block representing one item of the SEAS directory page.
 
     :param block: The DOM subtree for the directory item, as a BeautifulSoup `bs4.element.Tag`
+
     :return: The parsed directory item as a `SeasFacultyInformation` dictionary
     """
 
@@ -211,10 +214,14 @@ def parse_directory_item(block: bs4.element.Tag) -> SeasFacultyInformation:
     return dirinfo
 
 
-def fetch_seas_faculty_directory() -> typing.Optional[typing.List[SeasFacultyInformation]]:
+def fetch_seas_faculty_directory(fast: bool = False) -> typing.Optional[typing.List[SeasFacultyInformation]]:
     """
     Retrieves and parses a copy of the Princeton SEAS faculty directory, as
     hosted at: `https://engineering.princeton.edu/faculty-directory`.
+
+    :param fast: Determines whether some optimizations should be made to avoid making
+    many HTTP requests (but at the expense of data accuracy); unless speed is a
+    consideration, set this to `False`.
 
     :return: A list of `SeasFacultyInformation` dictionaries containing the public
     faculty directory information

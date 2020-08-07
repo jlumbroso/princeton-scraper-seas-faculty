@@ -35,6 +35,15 @@ MANUAL_NETID_FROM_PRINCETON_EMAIL = {
 }
 
 
+def _is_likely_netid(s: str) -> bool:
+    if type(s) is not str or len(s) == 0:
+        return False
+
+    # A NetID is a alphanumerical string no longer than
+    # 8 characters
+    return len(s) <= 8 and s.isalnum()
+
+
 # noinspection PyBroadException
 def fetch_campus_directory_results(url: str) -> typing.Optional[typing.List[bs4.element.Tag]]:
     """
@@ -75,13 +84,15 @@ def fetch_campus_directory_results(url: str) -> typing.Optional[typing.List[bs4.
     return raw_items
 
 
-def find_netid_from_princeton_email(princeton_email: str) -> typing.Optional[str]:
+def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) -> typing.Optional[str]:
     """
     Returns the NetID of a campus member, given a valid Princeton email; this
     places a query with the central campus directory as available publicly from:
     `https://search.princeton.edu`.
 
     :param princeton_email: A valid email, using the `@princeton.edu` domain.
+    :param fast: Determines whether to use a heuristic to avoid doing too many requests;
+    unless speed is a requirement, should be set to `False`.
     :return: The NetID of the person whose email was provided as an argument.
     """
 
@@ -89,6 +100,13 @@ def find_netid_from_princeton_email(princeton_email: str) -> typing.Optional[str
     princeton_email = princeton_email.lower()
     if princeton_email in MANUAL_NETID_FROM_PRINCETON_EMAIL:
         return MANUAL_NETID_FROM_PRINCETON_EMAIL[princeton_email]
+
+    # this is a heuristic that can save a lot of lookups (but may not
+    # work in some unfortunate cases)
+    if fast:
+        email_prefix = princeton_email.split("@")[0].lower()
+        if _is_likely_netid(email_prefix):
+            return email_prefix
 
     url = PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL.format(
         urllib.parse.quote(princeton_email))
