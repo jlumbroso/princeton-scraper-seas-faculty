@@ -4,15 +4,17 @@ This is a web scraper that produces machine-processable JSON and CSV feeds
 of Princeton University's School of Engineering and Applied Science (SEAS)
 faculty, sourced from [the official, publicly available faculty directory](https://engineering.princeton.edu/faculty-directory).
 
+You can see [the JSON feed by clicking here](https://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/).
+
 ## Accessing the static feeds
 
 You can access the (regularly updated) JSON feed directly from this URL:
 ```text
-http://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/
+https://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/
 ```
 and the CSV feed is accessible from this URL:
 ```
-http://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/index.csv
+https://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/index.csv
 ```
 
 For example using Python, you can use the `requests` package to

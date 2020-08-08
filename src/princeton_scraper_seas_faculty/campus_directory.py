@@ -18,6 +18,7 @@ __all__ = [
 
 # PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?e={}&ef=eq"
 PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?e={}&ef=b"
+PRINCETON_CAMPUS_DIRECTORY_NETID_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?i={}&if=eq"
 
 # Hard-coded constants that are required to scrape the web page
 
@@ -120,7 +121,7 @@ def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) ->
 
     raw_items = fetch_campus_directory_results(url=url)
 
-    if len(raw_items) == 0:
+    if raw_items is None or len(raw_items) == 0:
         return best_guess
 
     if len(raw_items) > 1:
