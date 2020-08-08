@@ -22,6 +22,14 @@ jobs:
           working_directory: "./src"
           args: run python -m princeton_scraper_seas_faculty > ../json/index.json
 
+      - name: Output CSV output
+        uses: abatilo/actions-poetry@v1.5.0
+        with:
+          python_version: 3.8.0
+          poetry_version: 1.0
+          working_directory: "./src"
+          args: run python -m princeton_scraper_seas_faculty --csv > ../csv/index.csv
+
       - name: Commit generated ./json/index.json
         uses: EndBug/add-and-commit@v4
         with:
