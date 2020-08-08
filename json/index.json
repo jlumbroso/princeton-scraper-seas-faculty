@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-08T01:50:08.082621",
+  "timestamp": "2020-08-08T02:41:13.862985",
   "data": [
     {
       "netid": "eabbe",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "netid": "isma",
+      "netid": null,
       "email": "isma@cs.princeton.edu",
       "name": "Ibrahim Albluwi",
       "first": "Ibrahim",
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "netid": "appel",
+      "netid": null,
       "email": "appel@cs.Princeton.EDU",
       "name": "Andrew Appel",
       "first": "Andrew",
@@ -125,7 +125,7 @@
       ]
     },
     {
-      "netid": "arora",
+      "netid": null,
       "email": "arora@cs.Princeton.EDU",
       "name": "Sanjeev Arora",
       "first": "Sanjeev",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "netid": "bourg",
+      "netid": "icb2",
       "email": "bourg@princeton.edu",
       "name": "Ian Bourg",
       "first": "Ian",
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "netid": "chazelle",
+      "netid": null,
       "email": "chazelle@cs.Princeton.EDU",
       "name": "Bernard Chazelle",
       "first": "Bernard",
@@ -366,7 +366,25 @@
       ]
     },
     {
-      "netid": "danqic",
+      "netid": "minjie",
+      "email": "minjie@princeton.edu",
+      "name": "Minjie Chen",
+      "first": "Minjie",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
+      "office": "217 Andlinger Center for Energy and the Environment",
+      "phone": "609-258-7656",
+      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": null,
       "email": "danqic@cs.princeton.edu",
       "name": "Danqi Chen",
       "first": "Danqi",
@@ -400,24 +418,6 @@
       ]
     },
     {
-      "netid": "minjie",
-      "email": "minjie@princeton.edu",
-      "name": "Minjie Chen",
-      "first": "Minjie",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
-      "office": "217 Andlinger Center for Energy and the Environment",
-      "phone": "609-258-7656",
-      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Andlinger Center for Energy and the Environment",
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "chou",
       "email": "chou@Princeton.EDU",
       "name": "Stephen Chou",
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "netid": "q3482",
+      "netid": null,
       "email": "q3482@Princeton.EDU",
       "name": "Edgar Choueiri",
       "first": "Edgar",
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "netid": "npdeleon",
+      "netid": "ndleon",
       "email": "npdeleon@princeton.edu",
       "name": "Nathalie de Leon",
       "first": "Nathalie",
@@ -537,7 +537,7 @@
       ]
     },
     {
-      "netid": "jiadeng",
+      "netid": null,
       "email": "jiadeng@cs.princeton.edu",
       "name": "Jia Deng",
       "first": "Jia",
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "netid": "ddobkin",
+      "netid": null,
       "email": "ddobkin@Princeton.EDU",
       "name": "David Dobkin",
       "first": "David",
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "netid": "rdondero",
+      "netid": null,
       "email": "rdondero@cs.prineton.edu",
       "name": "Robert Dondero Jr.",
       "first": "Robert Dondero",
@@ -657,7 +657,7 @@
       ]
     },
     {
-      "netid": "felten",
+      "netid": null,
       "email": "felten@cs.Princeton.EDU",
       "name": "Edward Felten",
       "first": "Edward",
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "netid": "af",
+      "netid": null,
       "email": "af@cs.Princeton.EDU",
       "name": "Adam Finkelstein",
       "first": "Adam",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "netid": "rfish",
+      "netid": null,
       "email": "rfish@cs.princeton.edu",
       "name": "Robert Fish",
       "first": "Robert",
@@ -762,7 +762,7 @@
       ]
     },
     {
-      "netid": "maia",
+      "netid": null,
       "email": "maia@cs.princeton.edu",
       "name": "Maia Ginsburg",
       "first": "Maia",
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "netid": "aglaser",
+      "netid": null,
       "email": "aglaser@Princeton.EDU",
       "name": "Alexander Glaser",
       "first": "Alexander",
@@ -830,7 +830,7 @@
       ]
     },
     {
-      "netid": "tomg",
+      "netid": null,
       "email": "tomg@cs.princeton.edu",
       "name": "Tom Griffiths",
       "first": "Tom",
@@ -967,7 +967,7 @@
       ]
     },
     {
-      "netid": "kylej",
+      "netid": null,
       "email": "kylej@cs.princeton.edu",
       "name": "Kyle Jamieson",
       "first": "Kyle",
@@ -1071,7 +1071,7 @@
       ]
     },
     {
-      "netid": "ak18",
+      "netid": null,
       "email": "ak18@cs.princeton.edu",
       "name": "Alan Kaplan",
       "first": "Alan",
@@ -1105,7 +1105,7 @@
       ]
     },
     {
-      "netid": "zkincaid",
+      "netid": null,
       "email": "zkincaid@cs.princeton.edu",
       "name": "Zachary Kincaid",
       "first": "Zachary",
@@ -1189,7 +1189,7 @@
       ]
     },
     {
-      "netid": "andrej",
+      "netid": "akosmrlj",
       "email": "andrej@princeton.edu",
       "name": "Andrej Kosmrlj",
       "first": "Andrej",
@@ -1257,7 +1257,7 @@
       ]
     },
     {
-      "netid": "jasonlee",
+      "netid": "jasondl",
       "email": "jasonlee@princeton.edu",
       "name": "Jason D. Lee",
       "first": "Jason D.",
@@ -1308,7 +1308,7 @@
       ]
     },
     {
-      "netid": "aalevy",
+      "netid": null,
       "email": "aalevy@cs.princeton.edu",
       "name": "Amit Levy",
       "first": "Amit",
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "netid": "dl9",
+      "netid": null,
       "email": "dl9@cs.princeton.edu",
       "name": "Daniel Leyzberg",
       "first": "Daniel",
@@ -1342,7 +1342,7 @@
       ]
     },
     {
-      "netid": "xiaoyan",
+      "netid": null,
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
       "first": "Xiaoyan",
@@ -1359,7 +1359,7 @@
       ]
     },
     {
-      "netid": "li",
+      "netid": null,
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
       "first": "Kai",
@@ -1462,7 +1462,7 @@
       ]
     },
     {
-      "netid": "lumbroso",
+      "netid": null,
       "email": "lumbroso@cs.princeton.edu",
       "name": "J\u00e9r\u00e9mie Lumbroso",
       "first": "J\u00e9r\u00e9mie",
@@ -1528,7 +1528,7 @@
       ]
     },
     {
-      "netid": "gigi",
+      "netid": null,
       "email": "gigi@phantom2.Princeton.EDU",
       "name": "Luigi Martinelli",
       "first": "Luigi",
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "netid": "mauzeral",
+      "netid": null,
       "email": "mauzeral@Princeton.EDU",
       "name": "Denise Mauzerall",
       "first": "Denise",
@@ -1666,7 +1666,7 @@
       ]
     },
     {
-      "netid": "cmoretti",
+      "netid": null,
       "email": "cmoretti@cs.princeton.edu",
       "name": "Christopher Moretti",
       "first": "Christopher",
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "netid": "karthikn",
+      "netid": null,
       "email": "karthikn@cs.princeton.edu",
       "name": "Karthik Narasimhan",
       "first": "Karthik",
@@ -1819,7 +1819,7 @@
       ]
     },
     {
-      "netid": "ipetras",
+      "netid": null,
       "email": "ipetras@cs.princeton.edu",
       "name": "Iasonas Petras",
       "first": "Iasonas",
@@ -2010,7 +2010,7 @@
       ]
     },
     {
-      "netid": "braphael",
+      "netid": null,
       "email": "braphael@cs.princeton.edu",
       "name": "Ben Raphael",
       "first": "Ben",
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "netid": "ranr",
+      "netid": null,
       "email": "ranr@cs.princeton.edu",
       "name": "Ran  Raz",
       "first": "Ran",
@@ -2061,7 +2061,7 @@
       ]
     },
     {
-      "netid": "zjren",
+      "netid": null,
       "email": "zjren@exchange.princeton.edu",
       "name": "Zhiyong \"Jason\" Ren",
       "first": "Zhiyong \"Jason\"",
@@ -2079,7 +2079,7 @@
       ]
     },
     {
-      "netid": "jrex",
+      "netid": null,
       "email": "jrex@cs.princeton.edu",
       "name": "Jennifer Rexford",
       "first": "Jennifer",
@@ -2147,7 +2147,7 @@
       ]
     },
     {
-      "netid": "olgarus",
+      "netid": null,
       "email": "olgarus@cs.princeton.edu",
       "name": "Olga Russakovsky",
       "first": "Olga",
@@ -2181,7 +2181,7 @@
       ]
     },
     {
-      "netid": "rs",
+      "netid": null,
       "email": "rs@cs.Princeton.EDU",
       "name": "Robert Sedgewick",
       "first": "Robert",
@@ -2284,7 +2284,7 @@
       ]
     },
     {
-      "netid": "msingh",
+      "netid": null,
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
       "first": "Mona",
@@ -2302,7 +2302,7 @@
       ]
     },
     {
-      "netid": "jps",
+      "netid": null,
       "email": "jps@cs.Princeton.EDU",
       "name": "Jaswinder Singh",
       "first": "Jaswinder",
@@ -2472,7 +2472,7 @@
       ]
     },
     {
-      "netid": "ret",
+      "netid": null,
       "email": "ret@cs.Princeton.EDU",
       "name": "Robert Tarjan",
       "first": "Robert",
@@ -2626,7 +2626,7 @@
       ]
     },
     {
-      "netid": "wayne",
+      "netid": null,
       "email": "wayne@cs.princeton.edu",
       "name": "Kevin Wayne",
       "first": "Kevin",
