@@ -7,6 +7,7 @@ import bs4
 
 import princeton_scraper_seas_faculty.campus_directory
 import princeton_scraper_seas_faculty.constants
+import princeton_scraper_seas_faculty.helpers
 
 
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
@@ -24,6 +25,8 @@ SeasFacultyInformation = typing.TypedDict(
         "netid": str,
         "email": str,
         "name": str,
+        "first": str,
+        "last": str,
         "profile-url": str,
         "image": str,
         "website": str,
@@ -111,12 +114,16 @@ def parse_affiliation_and_rank(tag_or_string: typing.Union[str, bs4.element.Tag]
     }
 
 
-def parse_directory_item(block: bs4.element.Tag) -> SeasFacultyInformation:
+def parse_directory_item(block: bs4.element.Tag, fast: bool = False) -> SeasFacultyInformation:
     """
     Returns a parsed `SeasFacultyInformation` dictionary, provided a DOM subtree
     of a block representing one item of the SEAS directory page.
 
     :param block: The DOM subtree for the directory item, as a BeautifulSoup `bs4.element.Tag`
+
+    :param fast: Determines whether some optimizations should be made to avoid making
+    many HTTP requests (but at the expense of data accuracy); unless speed is a
+    consideration, set this to `False`.
 
     :return: The parsed directory item as a `SeasFacultyInformation` dictionary
     """
@@ -130,7 +137,7 @@ def parse_directory_item(block: bs4.element.Tag) -> SeasFacultyInformation:
         # noinspection PyBroadException
         try:
             netid = princeton_scraper_seas_faculty.campus_directory.find_netid_from_princeton_email(
-                princeton_email=email)
+                princeton_email=email, fast=fast)
         except:
             netid = None
 
@@ -141,6 +148,10 @@ def parse_directory_item(block: bs4.element.Tag) -> SeasFacultyInformation:
     tag_name = block.find("h3")
     if tag_name is not None:
         dirinfo["name"] = tag_name.text.strip()
+
+        first, last = princeton_scraper_seas_faculty.helpers.split_name(dirinfo["name"])
+        dirinfo["first"] = first
+        dirinfo["last"] = last
 
     # parse the profile URL
     tag_profile_url = tag_name.find("a")
@@ -237,7 +248,9 @@ def fetch_seas_faculty_directory(fast: bool = False) -> typing.Optional[typing.L
 
     directory_items = s.find_all("div", attrs={"class": CLASS_ITEM})
 
-    directory_data = list(map(parse_directory_item, directory_items))
+    directory_data = list(map(
+        lambda t: parse_directory_item(t, fast=fast),
+        directory_items))
 
     return directory_data
 

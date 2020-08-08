@@ -9,6 +9,8 @@ __version__ = '1.0.0'
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
 
 __all__ = [
+    "SeasFacultyInformation",
+    "fetch_seas_faculty_directory",
 ]
 
 
