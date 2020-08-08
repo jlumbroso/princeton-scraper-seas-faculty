@@ -112,8 +112,11 @@ def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) ->
     # NOTE: maybe this heuristic is too much?
     best_guess = email_prefix
 
+    #url = PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL.format(
+    #    urllib.parse.quote(princeton_email))
+    # NOTE: attempted fix to handle @cs.princeton.edu addresses better
     url = PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL.format(
-        urllib.parse.quote(princeton_email))
+            email_prefix + urllib.parse.quote("@"))
 
     raw_items = fetch_campus_directory_results(url=url)
 
