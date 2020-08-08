@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-08T18:40:38.502354",
+  "timestamp": "2020-08-08T19:00:29.034763",
   "data": [
     {
       "netid": "eabbe",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "isma",
       "email": "isma@cs.princeton.edu",
       "name": "Ibrahim Albluwi",
       "first": "Ibrahim",
@@ -366,6 +366,23 @@
       ]
     },
     {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -401,23 +418,6 @@
       ]
     },
     {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "chou",
       "email": "chou@Princeton.EDU",
       "name": "Stephen Chou",
@@ -435,7 +435,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "q3482",
       "email": "q3482@Princeton.EDU",
       "name": "Edgar Choueiri",
       "first": "Edgar",
@@ -554,7 +554,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "ddobkin",
       "email": "ddobkin@Princeton.EDU",
       "name": "David Dobkin",
       "first": "David",
@@ -779,7 +779,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "aglaser",
       "email": "aglaser@Princeton.EDU",
       "name": "Alexander Glaser",
       "first": "Alexander",
@@ -967,7 +967,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "kylej",
       "email": "kylej@cs.princeton.edu",
       "name": "Kyle Jamieson",
       "first": "Kyle",
@@ -1071,7 +1071,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "ak18",
       "email": "ak18@cs.princeton.edu",
       "name": "Alan Kaplan",
       "first": "Alan",
@@ -1325,7 +1325,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "dl9",
       "email": "dl9@cs.princeton.edu",
       "name": "Daniel Leyzberg",
       "first": "Daniel",
@@ -1336,6 +1336,23 @@
       "office": "034 Corwin Hall Computer Science",
       "phone": "609-258-9300",
       "research": "Expertise: Computer science education, human-computer and human-robot interaction.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
@@ -1354,23 +1371,6 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
@@ -1579,7 +1579,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "mauzeral",
       "email": "mauzeral@Princeton.EDU",
       "name": "Denise Mauzerall",
       "first": "Denise",
@@ -2284,24 +2284,6 @@
       ]
     },
     {
-      "netid": null,
-      "email": "msingh@Princeton.EDU",
-      "name": "Mona Singh",
-      "first": "Mona",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/mona-singh",
-      "image": "https://engineering.princeton.edu/sites/default/files/msingh_1.jpg",
-      "website": "http://www.cs.princeton.edu/~mona/",
-      "office": "420 Computer Science Building",
-      "phone": "609-258-2087",
-      "research": "Computational biology and bioinformatics; computational science",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science",
-        "Lewis Sigler Institute for Integrative Genomics"
-      ]
-    },
-    {
       "netid": "jps",
       "email": "jps@cs.Princeton.EDU",
       "name": "Jaswinder Singh",
@@ -2316,6 +2298,24 @@
       "rank": "Professor",
       "affiliations": [
         "Computer Science"
+      ]
+    },
+    {
+      "netid": "msingh",
+      "email": "msingh@Princeton.EDU",
+      "name": "Mona Singh",
+      "first": "Mona",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/mona-singh",
+      "image": "https://engineering.princeton.edu/sites/default/files/msingh_1.jpg",
+      "website": "http://www.cs.princeton.edu/~mona/",
+      "office": "420 Computer Science Building",
+      "phone": "609-258-2087",
+      "research": "Computational biology and bioinformatics; computational science",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science",
+        "Lewis Sigler Institute for Integrative Genomics"
       ]
     },
     {
