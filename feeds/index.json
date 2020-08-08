@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-08T03:16:42.323472",
+  "timestamp": "2020-08-08T18:40:38.502354",
   "data": [
     {
       "netid": "eabbe",
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "celia",
       "email": "celia@Princeton.EDU",
       "name": "Michael Celia",
       "first": "Michael",
@@ -384,7 +384,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "danqic",
       "email": "danqic@cs.princeton.edu",
       "name": "Danqi Chen",
       "first": "Danqi",
@@ -537,7 +537,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "jiadeng",
       "email": "jiadeng@cs.princeton.edu",
       "name": "Jia Deng",
       "first": "Jia",
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "rdondero",
       "email": "rdondero@cs.prineton.edu",
       "name": "Robert Dondero Jr.",
       "first": "Robert Dondero",
@@ -693,7 +693,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "rfish",
       "email": "rfish@cs.princeton.edu",
       "name": "Robert Fish",
       "first": "Robert",
@@ -762,7 +762,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "maia",
       "email": "maia@cs.princeton.edu",
       "name": "Maia Ginsburg",
       "first": "Maia",
@@ -830,7 +830,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "tomg",
       "email": "tomg@cs.princeton.edu",
       "name": "Tom Griffiths",
       "first": "Tom",
@@ -1105,7 +1105,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "zkincaid",
       "email": "zkincaid@cs.princeton.edu",
       "name": "Zachary Kincaid",
       "first": "Zachary",
@@ -1257,23 +1257,6 @@
       ]
     },
     {
-      "netid": "jasondl",
-      "email": "jasonlee@princeton.edu",
-      "name": "Jason D. Lee",
-      "first": "Jason D.",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
-      "website": "https://ee.princeton.edu/people/jason-d-lee",
-      "office": "B308 E-Quad",
-      "phone": "609-258-8396",
-      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "rblee",
       "email": "rblee@Princeton.EDU",
       "name": "Ruby Lee",
@@ -1286,6 +1269,23 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jason-d-lee",
+      "office": "B308 E-Quad",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
@@ -1308,7 +1308,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "aalevy",
       "email": "aalevy@cs.princeton.edu",
       "name": "Amit Levy",
       "first": "Amit",
@@ -1342,23 +1342,6 @@
       ]
     },
     {
-      "netid": null,
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1371,6 +1354,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
@@ -1462,7 +1462,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "lumbroso",
       "email": "lumbroso@cs.princeton.edu",
       "name": "J\u00e9r\u00e9mie Lumbroso",
       "first": "J\u00e9r\u00e9mie",
@@ -1666,7 +1666,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "cmoretti",
       "email": "cmoretti@cs.princeton.edu",
       "name": "Christopher Moretti",
       "first": "Christopher",
@@ -1717,7 +1717,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "karthikn",
       "email": "karthikn@cs.princeton.edu",
       "name": "Karthik Narasimhan",
       "first": "Karthik",
@@ -1819,7 +1819,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "ipetras",
       "email": "ipetras@cs.princeton.edu",
       "name": "Iasonas Petras",
       "first": "Iasonas",
@@ -2010,7 +2010,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "braphael",
       "email": "braphael@cs.princeton.edu",
       "name": "Ben Raphael",
       "first": "Ben",
@@ -2027,7 +2027,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "ranr",
       "email": "ranr@cs.princeton.edu",
       "name": "Ran  Raz",
       "first": "Ran",
@@ -2061,7 +2061,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "zren",
       "email": "zjren@exchange.princeton.edu",
       "name": "Zhiyong \"Jason\" Ren",
       "first": "Zhiyong \"Jason\"",
@@ -2079,7 +2079,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "jrex",
       "email": "jrex@cs.princeton.edu",
       "name": "Jennifer Rexford",
       "first": "Jennifer",
@@ -2147,7 +2147,7 @@
       ]
     },
     {
-      "netid": null,
+      "netid": "olgarus",
       "email": "olgarus@cs.princeton.edu",
       "name": "Olga Russakovsky",
       "first": "Olga",
