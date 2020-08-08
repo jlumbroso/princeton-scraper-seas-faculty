@@ -14,9 +14,10 @@ __all__ = [
 
 
 # URL to build queries to search the campus directory by email address equality
+# NOTE: had to switch to "begins with" because of bug in search
 
-PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?e={}&ef=eq"
-
+# PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?e={}&ef=eq"
+PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL = "https://www.princeton.edu/search/people-advanced?e={}&ef=b"
 
 # Hard-coded constants that are required to scrape the web page
 
@@ -103,10 +104,13 @@ def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) ->
 
     # this is a heuristic that can save a lot of lookups (but may not
     # work in some unfortunate cases)
+    email_prefix = princeton_email.split("@")[0].lower()
     if fast:
-        email_prefix = princeton_email.split("@")[0].lower()
         if _is_likely_netid(email_prefix):
             return email_prefix
+
+    # NOTE: maybe this heuristic is too much?
+    best_guess = email_prefix
 
     url = PRINCETON_CAMPUS_DIRECTORY_EMAIL_SEARCH_URL.format(
         urllib.parse.quote(princeton_email))
@@ -114,7 +118,7 @@ def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) ->
     raw_items = fetch_campus_directory_results(url=url)
 
     if len(raw_items) == 0:
-        return
+        return best_guess
 
     if len(raw_items) > 1:
         raise Exception("should not have more than one result")
@@ -122,11 +126,11 @@ def find_netid_from_princeton_email(princeton_email: str, fast: bool = False) ->
     first = raw_items[0]
     tag_netid_label = first.find("h4", string=STR_NETID)
     if tag_netid_label is None:
-        return
+        return best_guess
 
     tag_netid = tag_netid_label.find_next_sibling("span", attrs={"class": CLASS_RESULTS_DETAILS})
     if tag_netid is None:
-        return
+        return best_guess
 
     return tag_netid.text.strip().lower()
 
