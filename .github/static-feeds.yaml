@@ -1,0 +1,33 @@
+on: ["push", "pull_request"]
+name: Regenerate static feeds
+jobs:
+  regenjson:
+    name: Regenerate JSON
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup Python & Poetry and install project
+        uses: abatilo/actions-poetry@v1.5.0
+        with:
+          python_version: 3.8.0
+          poetry_version: 1.0
+          working_directory: "."  # optional, defaults to ".'
+          args: install
+
+      - name: Output JSON output
+        uses: abatilo/actions-poetry@v1.5.0
+        with:
+          python_version: 3.8.0
+          poetry_version: 1.0
+          working_directory: "./src"
+          args: run python -m princeton_scraper_seas_faculty > ../json/index.json
+
+      - name: Commit generated ./json/index.json
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: "Commit updated static feed"
+          add: "json/index.json"
+          cwd: "."
+          force: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
