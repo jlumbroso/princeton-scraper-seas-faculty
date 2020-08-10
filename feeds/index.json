@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-08T19:00:29.034763",
+  "timestamp": "2020-08-10T05:15:05.976992",
   "data": [
     {
       "netid": "eabbe",
@@ -366,6 +366,23 @@
       ]
     },
     {
+      "netid": "danqic",
+      "email": "danqic@cs.princeton.edu",
+      "name": "Danqi Chen",
+      "first": "Danqi",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/danqi-chen",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/danqi_chen_450x600.jpg",
+      "website": "https://www.cs.princeton.edu/~danqic/",
+      "office": "412 Computer Science",
+      "phone": "609-258-8680",
+      "research": "Natural language processing, machine learning and deep learning.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
       "netid": "yc5",
       "email": "yuxin.chen@princeton.edu",
       "name": "Yuxin Chen",
@@ -398,23 +415,6 @@
       "affiliations": [
         "Andlinger Center for Energy and the Environment",
         "Electrical Engineering"
-      ]
-    },
-    {
-      "netid": "danqic",
-      "email": "danqic@cs.princeton.edu",
-      "name": "Danqi Chen",
-      "first": "Danqi",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/danqi-chen",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/danqi_chen_450x600.jpg",
-      "website": "https://www.cs.princeton.edu/~danqic/",
-      "office": "412 Computer Science",
-      "phone": "609-258-8680",
-      "research": "Natural language processing, machine learning and deep learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Computer Science"
       ]
     },
     {
@@ -1342,23 +1342,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1371,6 +1354,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
@@ -2284,23 +2284,6 @@
       ]
     },
     {
-      "netid": "jps",
-      "email": "jps@cs.Princeton.EDU",
-      "name": "Jaswinder Singh",
-      "first": "Jaswinder",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~jps/",
-      "office": "324 Computer Science Building",
-      "phone": "609-258-5329",
-      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "msingh",
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
@@ -2316,6 +2299,23 @@
       "affiliations": [
         "Computer Science",
         "Lewis Sigler Institute for Integrative Genomics"
+      ]
+    },
+    {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~jps/",
+      "office": "324 Computer Science Building",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
       ]
     },
     {
