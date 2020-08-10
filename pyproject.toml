@@ -8,7 +8,7 @@ authors = ["Jérémie Lumbroso <lumbroso@cs.princeton.edu>"]
 python = "^3.8"
 requests = "^2.24.0"
 bs4 = "^0.0.1"
-comma = "^0.5.2"
+comma = "0.5.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
