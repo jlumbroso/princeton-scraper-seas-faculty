@@ -47,7 +47,7 @@ the following fields:
       "first": "J\u00e9r\u00e9mie",
       "last": "Lumbroso",
       "profile-url": "https://engineering.princeton.edu/faculty/j-r-mie-lumbroso",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Lumbroso_450x600.jpg",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Lumbroso_450x600_0.jpg",
       "website": "https://www.cs.princeton.edu/people/profile/lumbroso",
       "office": "035 Corwin Hall",
       "phone": "609-258-5379",
