@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-10T05:15:05.976992",
+  "timestamp": "2020-08-20T03:37:22.510140",
   "data": [
     {
       "netid": "eabbe",
@@ -366,23 +366,6 @@
       ]
     },
     {
-      "netid": "danqic",
-      "email": "danqic@cs.princeton.edu",
-      "name": "Danqi Chen",
-      "first": "Danqi",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/danqi-chen",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/danqi_chen_450x600.jpg",
-      "website": "https://www.cs.princeton.edu/~danqic/",
-      "office": "412 Computer Science",
-      "phone": "609-258-8680",
-      "research": "Natural language processing, machine learning and deep learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "yc5",
       "email": "yuxin.chen@princeton.edu",
       "name": "Yuxin Chen",
@@ -415,6 +398,23 @@
       "affiliations": [
         "Andlinger Center for Energy and the Environment",
         "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "danqic",
+      "email": "danqic@cs.princeton.edu",
+      "name": "Danqi Chen",
+      "first": "Danqi",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/danqi-chen",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/danqi_chen_450x600.jpg",
+      "website": "https://www.cs.princeton.edu/~danqic/",
+      "office": "412 Computer Science",
+      "phone": "609-258-8680",
+      "research": "Natural language processing, machine learning and deep learning.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
       ]
     },
     {
@@ -1342,23 +1342,6 @@
       ]
     },
     {
-      "netid": "li",
-      "email": "li@cs.Princeton.EDU",
-      "name": "Kai Li",
-      "first": "Kai",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
-      "website": "http://www.cs.princeton.edu/~li/",
-      "office": "321 Computer Science Building",
-      "phone": "609-258-4637",
-      "research": "Computer architecture; operating systems; parallel systems; networking",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "xiaoyan",
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
@@ -1371,6 +1354,23 @@
       "phone": "609-258-7844",
       "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
+      "website": "http://www.cs.princeton.edu/~li/",
+      "office": "321 Computer Science Building",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
       "affiliations": [
         "Computer Science"
       ]
@@ -1468,7 +1468,7 @@
       "first": "J\u00e9r\u00e9mie",
       "last": "Lumbroso",
       "profile-url": "https://engineering.princeton.edu/faculty/j-r-mie-lumbroso",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Lumbroso_450x600.jpg",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Lumbroso_450x600_0.jpg",
       "website": "https://www.cs.princeton.edu/people/profile/lumbroso",
       "office": "035 Corwin Hall",
       "phone": "609-258-5379",
