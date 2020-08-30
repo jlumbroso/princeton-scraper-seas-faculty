@@ -6,6 +6,8 @@ faculty, sourced from [the official, publicly available faculty directory](https
 
 You can see [the JSON feed by clicking here](https://jlumbroso.github.io/princeton-scraper-seas-faculty/feeds/).
 
+This feed is updated every week on Saturday. Read on to learn more.
+
 ## Accessing the static feeds
 
 You can access the (regularly updated) JSON feed directly from this URL:
