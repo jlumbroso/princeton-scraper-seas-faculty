@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-08-20T03:37:22.510140",
+  "timestamp": "2020-08-30T14:17:33.627231",
   "data": [
     {
       "netid": "eabbe",
@@ -693,6 +693,23 @@
       ]
     },
     {
+      "netid": "jfisac",
+      "email": "jfisac@princeton.edu",
+      "name": "Jaime Fern\u00e1ndez Fisac",
+      "first": "Jaime Fern\u00e1ndez",
+      "last": "Fisac",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaime-fernandez-fisac",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Fisac_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jaime-fernandez-fisac",
+      "office": "B316 E-Quad",
+      "phone": "609-258-2017",
+      "research": "Operations of robotic systems in the human space.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
       "netid": "rfish",
       "email": "rfish@cs.princeton.edu",
       "name": "Robert Fish",
@@ -827,6 +844,23 @@
       "rank": "Professor",
       "affiliations": [
         "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "dgraves",
+      "email": "dgraves@pppl.gov",
+      "name": "David Graves",
+      "first": "David",
+      "last": "Graves",
+      "profile-url": "https://engineering.princeton.edu/faculty/david-graves",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Graves_450x600.jpg",
+      "website": "https://cbe.princeton.edu/people/david-graves",
+      "office": "E-Quad",
+      "phone": "609-258-",
+      "research": "Plasma applications in nanotechnology",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
       ]
     },
     {
@@ -2284,6 +2318,23 @@
       ]
     },
     {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
+      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~jps/",
+      "office": "324 Computer Science Building",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
       "netid": "msingh",
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
@@ -2299,23 +2350,6 @@
       "affiliations": [
         "Computer Science",
         "Lewis Sigler Institute for Integrative Genomics"
-      ]
-    },
-    {
-      "netid": "jps",
-      "email": "jps@cs.Princeton.EDU",
-      "name": "Jaswinder Singh",
-      "first": "Jaswinder",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
-      "image": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~jps/",
-      "office": "324 Computer Science Building",
-      "phone": "609-258-5329",
-      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
       ]
     },
     {
