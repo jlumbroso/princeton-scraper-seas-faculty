@@ -163,7 +163,7 @@ def parse_directory_item(block: bs4.element.Tag, fast: bool = False) -> SeasFacu
     # parse the image
     tag_img = block.find("img")
     if tag_img is not None:
-        dirinfo["image"] = tag_img.get("src", "")
+        dirinfo["image-url"] = tag_img.get("src", "")
 
     # parse the web address
     tag_email = block.find("a", string=STR_WEBSITE)
