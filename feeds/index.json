@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-09-12T08:19:33.351632",
+  "timestamp": "2020-09-19T08:19:21.083103",
   "data": [
     {
       "netid": "eabbe",
@@ -1377,23 +1377,6 @@
       ]
     },
     {
-      "netid": "li",
-      "email": "li@cs.Princeton.EDU",
-      "name": "Kai Li",
-      "first": "Kai",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
-      "website": "http://www.cs.princeton.edu/~li/",
-      "office": "321 Computer Science Building",
-      "phone": "609-258-4637",
-      "research": "Computer architecture; operating systems; parallel systems; networking",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "xiaoyan",
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
@@ -1406,6 +1389,23 @@
       "phone": "609-258-7844",
       "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
+      "website": "http://www.cs.princeton.edu/~li/",
+      "office": "321 Computer Science Building",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
       "affiliations": [
         "Computer Science"
       ]
@@ -1563,7 +1563,7 @@
       ]
     },
     {
-      "netid": "martinel",
+      "netid": "gigi",
       "email": "gigi@phantom2.Princeton.EDU",
       "name": "Luigi Martinelli",
       "first": "Luigi",
