@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-09-19T08:19:21.083103",
+  "timestamp": "2020-09-26T08:20:32.424754",
   "data": [
     {
       "netid": "eabbe",
@@ -836,7 +836,7 @@
       "first": "Andrea",
       "last": "Goldsmith",
       "profile-url": "https://engineering.princeton.edu/faculty/andrea-goldsmith",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Goldsmith_Andrea_450x600.jpg",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/goldsmith_450x600.jpg",
       "website": "https://ee.princeton.edu/people/andrea-goldsmith",
       "office": "C230 E-Quad",
       "phone": "609-258-2448",
@@ -914,6 +914,23 @@
       "rank": "Professor",
       "affiliations": [
         "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "bhanin",
+      "email": "bhanin@princeton.edu",
+      "name": "Boris Hanin",
+      "first": "Boris",
+      "last": "Hanin",
+      "profile-url": "https://engineering.princeton.edu/faculty/boris-hanin",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/hanin_boris_450x600.jpg",
+      "website": "https://hanin.princeton.edu/",
+      "office": "Sherrerd Hall",
+      "phone": "609-258-3000",
+      "research": "Deep learning, probability, and spectral asymptotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
       ]
     },
     {
@@ -1153,6 +1170,23 @@
       "research": "Programming languages, formal methods, concurrency, compilers, logic. Developing automated reasoning techniques to facilitate the construction of high-performance, dependable software.  Static analysis and program verification, with an emphasis on multi-threaded programs.  Theorem proving and program synthesis.",
       "rank": "Assistant Professor",
       "affiliations": []
+    },
+    {
+      "netid": "jk53",
+      "email": "jason.klusowski@princeton.edu",
+      "name": "Jason Klusowski",
+      "first": "Jason",
+      "last": "Klusowski",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-klusowski",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Klusowski_450x600.jpg",
+      "website": "https://orfe.princeton.edu/people/faculty/jk53",
+      "office": "Sherrerd Hall",
+      "phone": "609-258-3000",
+      "research": "Machine Learning, Statistics",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
     },
     {
       "netid": "bkoel",
@@ -2337,6 +2371,23 @@
       ]
     },
     {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~jps/",
+      "office": "324 Computer Science Building",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
       "netid": "msingh",
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
@@ -2352,23 +2403,6 @@
       "affiliations": [
         "Computer Science",
         "Lewis Sigler Institute for Integrative Genomics"
-      ]
-    },
-    {
-      "netid": "jps",
-      "email": "jps@cs.Princeton.EDU",
-      "name": "Jaswinder Singh",
-      "first": "Jaswinder",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~jps/",
-      "office": "324 Computer Science Building",
-      "phone": "609-258-5329",
-      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
       ]
     },
     {
