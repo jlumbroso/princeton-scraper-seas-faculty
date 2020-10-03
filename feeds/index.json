@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-09-26T08:20:32.424754",
+  "timestamp": "2020-10-03T08:22:01.142764",
   "data": [
     {
       "netid": "eabbe",
@@ -1326,23 +1326,6 @@
       ]
     },
     {
-      "netid": "jasondl",
-      "email": "jasonlee@princeton.edu",
-      "name": "Jason D. Lee",
-      "first": "Jason D.",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
-      "website": "https://ee.princeton.edu/people/jason-d-lee",
-      "office": "B308 E-Quad",
-      "phone": "609-258-8396",
-      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "rblee",
       "email": "rblee@Princeton.EDU",
       "name": "Ruby Lee",
@@ -1355,6 +1338,23 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jason-d-lee",
+      "office": "B308 E-Quad",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
@@ -1411,23 +1411,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1440,6 +1423,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
@@ -2371,23 +2371,6 @@
       ]
     },
     {
-      "netid": "jps",
-      "email": "jps@cs.Princeton.EDU",
-      "name": "Jaswinder Singh",
-      "first": "Jaswinder",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~jps/",
-      "office": "324 Computer Science Building",
-      "phone": "609-258-5329",
-      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "msingh",
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
@@ -2403,6 +2386,23 @@
       "affiliations": [
         "Computer Science",
         "Lewis Sigler Institute for Integrative Genomics"
+      ]
+    },
+    {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~jps/",
+      "office": "324 Computer Science Building",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
       ]
     },
     {
