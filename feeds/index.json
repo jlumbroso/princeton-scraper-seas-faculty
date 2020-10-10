@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-10-03T08:22:01.142764",
+  "timestamp": "2020-10-10T08:21:35.757041",
   "data": [
     {
       "netid": "eabbe",
@@ -349,23 +349,6 @@
       ]
     },
     {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -398,6 +381,23 @@
       "rank": "Assistant Professor",
       "affiliations": [
         "Computer Science"
+      ]
+    },
+    {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
       ]
     },
     {
@@ -1326,23 +1326,6 @@
       ]
     },
     {
-      "netid": "rblee",
-      "email": "rblee@Princeton.EDU",
-      "name": "Ruby Lee",
-      "first": "Ruby",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/ruby-lee",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/lee-r_450x600.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/ruby-lee",
-      "office": "B218 E-Quad",
-      "phone": "609-258-1426",
-      "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
-      "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "jasondl",
       "email": "jasonlee@princeton.edu",
       "name": "Jason D. Lee",
@@ -1355,6 +1338,23 @@
       "phone": "609-258-8396",
       "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
       "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "rblee",
+      "email": "rblee@Princeton.EDU",
+      "name": "Ruby Lee",
+      "first": "Ruby",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/ruby-lee",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/lee-r_450x600.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/ruby-lee",
+      "office": "B218 E-Quad",
+      "phone": "609-258-1426",
+      "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
+      "rank": "Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
@@ -1411,23 +1411,6 @@
       ]
     },
     {
-      "netid": "li",
-      "email": "li@cs.Princeton.EDU",
-      "name": "Kai Li",
-      "first": "Kai",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
-      "website": "http://www.cs.princeton.edu/~li/",
-      "office": "321 Computer Science Building",
-      "phone": "609-258-4637",
-      "research": "Computer architecture; operating systems; parallel systems; networking",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "xiaoyan",
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
@@ -1440,6 +1423,23 @@
       "phone": "609-258-7844",
       "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
+      "website": "http://www.cs.princeton.edu/~li/",
+      "office": "321 Computer Science Building",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
       "affiliations": [
         "Computer Science"
       ]
@@ -1594,6 +1594,24 @@
       "rank": "Professor",
       "affiliations": [
         "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "cm49",
+      "email": "maravelias@princeton.edu",
+      "name": "Christos Maravelias",
+      "first": "Christos",
+      "last": "Maravelias",
+      "profile-url": "https://engineering.princeton.edu/faculty/christos-maravelias",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/maravelias_christos.jpg",
+      "website": "https://cbe.princeton.edu/people/christos-maravelias",
+      "office": "226 Andlinger Center for Energy and the Environment",
+      "phone": "609-258-5158",
+      "research": "Process systems engineering and energy systems synthesis and analysis.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Chemical and Biological Engineering"
       ]
     },
     {
