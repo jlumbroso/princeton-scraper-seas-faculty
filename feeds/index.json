@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-10-17T08:22:12.949385",
+  "timestamp": "2020-10-24T08:23:31.676762",
   "data": [
     {
       "netid": "eabbe",
@@ -349,6 +349,23 @@
       ]
     },
     {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -381,23 +398,6 @@
       "rank": "Assistant Professor",
       "affiliations": [
         "Computer Science"
-      ]
-    },
-    {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
       ]
     },
     {
@@ -1326,23 +1326,6 @@
       ]
     },
     {
-      "netid": "jasondl",
-      "email": "jasonlee@princeton.edu",
-      "name": "Jason D. Lee",
-      "first": "Jason D.",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
-      "website": "https://ee.princeton.edu/people/jason-d-lee",
-      "office": "B308 E-Quad",
-      "phone": "609-258-8396",
-      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "rblee",
       "email": "rblee@Princeton.EDU",
       "name": "Ruby Lee",
@@ -1355,6 +1338,23 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jason-d-lee",
+      "office": "B308 E-Quad",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
