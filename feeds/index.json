@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-10-24T08:23:31.676762",
+  "timestamp": "2020-10-31T08:17:43.701559",
   "data": [
     {
       "netid": "eabbe",
@@ -1411,23 +1411,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1440,6 +1423,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
