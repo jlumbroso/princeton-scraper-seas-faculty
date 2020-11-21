@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-11-14T08:20:54.861890",
+  "timestamp": "2020-11-21T08:18:43.211795",
   "data": [
     {
       "netid": "eabbe",
@@ -349,24 +349,6 @@
       ]
     },
     {
-      "netid": "minjie",
-      "email": "minjie@princeton.edu",
-      "name": "Minjie Chen",
-      "first": "Minjie",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
-      "office": "217 Andlinger Center for Energy and the Environment",
-      "phone": "609-258-7656",
-      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Andlinger Center for Energy and the Environment",
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "danqic",
       "email": "danqic@cs.princeton.edu",
       "name": "Danqi Chen",
@@ -397,6 +379,24 @@
       "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
       "rank": "Assistant Professor",
       "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "minjie",
+      "email": "minjie@princeton.edu",
+      "name": "Minjie Chen",
+      "first": "Minjie",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
+      "office": "217 Andlinger Center for Energy and the Environment",
+      "phone": "609-258-7656",
+      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
         "Electrical Engineering"
       ]
     },
@@ -682,7 +682,7 @@
       "first": "Jaime Fern\u00e1ndez",
       "last": "Fisac",
       "profile-url": "https://engineering.princeton.edu/faculty/jaime-fernandez-fisac",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Fisac_450x600.jpg",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/fisac_450x600_DKC.jpg",
       "website": "https://ee.princeton.edu/people/jaime-fernandez-fisac",
       "office": "B316 E-Quad",
       "phone": "609-258-2017",
@@ -1169,7 +1169,9 @@
       "phone": "609-258-5330",
       "research": "Programming languages, formal methods, concurrency, compilers, logic. Developing automated reasoning techniques to facilitate the construction of high-performance, dependable software.  Static analysis and program verification, with an emphasis on multi-threaded programs.  Theorem proving and program synthesis.",
       "rank": "Assistant Professor",
-      "affiliations": []
+      "affiliations": [
+        "Computer Science"
+      ]
     },
     {
       "netid": "jk53",
