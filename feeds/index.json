@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-11-21T08:18:43.211795",
+  "timestamp": "2020-11-28T08:24:47.480984",
   "data": [
     {
       "netid": "eabbe",
@@ -349,6 +349,24 @@
       ]
     },
     {
+      "netid": "minjie",
+      "email": "minjie@princeton.edu",
+      "name": "Minjie Chen",
+      "first": "Minjie",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
+      "office": "217 Andlinger Center for Energy and the Environment",
+      "phone": "609-258-7656",
+      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Electrical Engineering"
+      ]
+    },
+    {
       "netid": "danqic",
       "email": "danqic@cs.princeton.edu",
       "name": "Danqi Chen",
@@ -379,24 +397,6 @@
       "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
       "rank": "Assistant Professor",
       "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
-      "netid": "minjie",
-      "email": "minjie@princeton.edu",
-      "name": "Minjie Chen",
-      "first": "Minjie",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
-      "office": "217 Andlinger Center for Energy and the Environment",
-      "phone": "609-258-7656",
-      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Andlinger Center for Energy and the Environment",
         "Electrical Engineering"
       ]
     },
@@ -1413,23 +1413,6 @@
       ]
     },
     {
-      "netid": "li",
-      "email": "li@cs.Princeton.EDU",
-      "name": "Kai Li",
-      "first": "Kai",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
-      "website": "http://www.cs.princeton.edu/~li/",
-      "office": "321 Computer Science Building",
-      "phone": "609-258-4637",
-      "research": "Computer architecture; operating systems; parallel systems; networking",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "xiaoyan",
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
@@ -1442,6 +1425,23 @@
       "phone": "609-258-7844",
       "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
+      "website": "http://www.cs.princeton.edu/~li/",
+      "office": "321 Computer Science Building",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
       "affiliations": [
         "Computer Science"
       ]
