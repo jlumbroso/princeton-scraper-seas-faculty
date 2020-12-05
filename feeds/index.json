@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-11-28T08:24:47.480984",
+  "timestamp": "2020-12-05T08:23:07.439346",
   "data": [
     {
       "netid": "eabbe",
@@ -207,8 +207,7 @@
       "research": "Geochemical and mass transport properties of porous media, including clay mineral surface geochemistry; geologic carbon sequestration; kinetic isotope effects in aqueous systems; liquid water at interfaces; coupling between geochemistry, geomechanics, and mass fluxes in porous media.",
       "rank": "Assistant Professor",
       "affiliations": [
-        "Civil and Environmental Engineering",
-        "Princeton Environmental Institute"
+        "Civil and Environmental Engineering"
       ]
     },
     {
@@ -327,8 +326,7 @@
       "research": "Carbon mitigation; ecohydrology; subsurface hydrology; ecohydrology, numerical modeling, contaminant transport simulation; multiphase flow physics",
       "rank": "Professor",
       "affiliations": [
-        "Civil and Environmental Engineering",
-        "Princeton Environmental Institute"
+        "Civil and Environmental Engineering"
       ]
     },
     {
@@ -515,9 +513,7 @@
       "phone": "609-258-7920",
       "research": "Fundamental fluid dynamics with an emphasis on non-linear and multi-scale systems. Addressing fundamental physics problems related to environmental and industrial applications, including the statistics of waves in the ocean, floating ice sheets, gas transfer by surface breaking waves in the ocean, and spray dynamics in the atmosphere.",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Princeton Environmental Institute"
-      ]
+      "affiliations": []
     },
     {
       "netid": "jiadeng",
@@ -682,7 +678,7 @@
       "first": "Jaime Fern\u00e1ndez",
       "last": "Fisac",
       "profile-url": "https://engineering.princeton.edu/faculty/jaime-fernandez-fisac",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/fisac_450x600_DKC.jpg",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Fisac%201_450x600.jpg",
       "website": "https://ee.princeton.edu/people/jaime-fernandez-fisac",
       "office": "B316 E-Quad",
       "phone": "609-258-2017",
@@ -1698,8 +1694,7 @@
       "research": "Hydrology, understanding perturbations to the hydrologic cycle though observations and numerical models, reactive transport, scaling in watersheds, coupled simulation and high-performance computing.",
       "rank": "Professor",
       "affiliations": [
-        "Civil and Environmental Engineering",
-        "Princeton Environmental Institute"
+        "Civil and Environmental Engineering"
       ]
     },
     {
@@ -1974,8 +1969,7 @@
       "research": "Nonlinear and stochastic dynamical systems, hydrometeorology and soil-atmosphere interaction, soil moisture and plant dynamics, soil biogeochemistry, and ecohydrology.",
       "rank": "Professor",
       "affiliations": [
-        "Civil and Environmental Engineering",
-        "Princeton Environmental Institute"
+        "Civil and Environmental Engineering"
       ]
     },
     {
@@ -2077,8 +2071,7 @@
       "research": "Sustainable infrastructure design, cities, sustainability science, urban systems science, food-energy-water nexus, environmental modeling, science-policy linkages, India",
       "rank": "Professor",
       "affiliations": [
-        "Civil and Environmental Engineering",
-        "Princeton Environmental Institute"
+        "Civil and Environmental Engineering"
       ]
     },
     {
