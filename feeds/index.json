@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-12-12T08:22:13.809713",
+  "timestamp": "2020-12-19T08:23:40.461663",
   "data": [
     {
       "netid": "eabbe",
@@ -347,6 +347,23 @@
       ]
     },
     {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -379,23 +396,6 @@
       "rank": "Assistant Professor",
       "affiliations": [
         "Computer Science"
-      ]
-    },
-    {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
       ]
     },
     {
@@ -1409,23 +1409,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1438,6 +1421,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
