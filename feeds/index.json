@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-12-19T08:23:40.461663",
+  "timestamp": "2020-12-26T08:25:17.871785",
   "data": [
     {
       "netid": "eabbe",
@@ -1324,23 +1324,6 @@
       ]
     },
     {
-      "netid": "jasondl",
-      "email": "jasonlee@princeton.edu",
-      "name": "Jason D. Lee",
-      "first": "Jason D.",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
-      "website": "https://ee.princeton.edu/people/jason-d-lee",
-      "office": "B308 E-Quad",
-      "phone": "609-258-8396",
-      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "rblee",
       "email": "rblee@Princeton.EDU",
       "name": "Ruby Lee",
@@ -1353,6 +1336,23 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jason-d-lee",
+      "office": "B308 E-Quad",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
@@ -1409,6 +1409,23 @@
       ]
     },
     {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1426,17 +1443,17 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "netid": "soohyunl",
+      "email": "soohyunl@cs.princeton.edu",
+      "name": "Soohyun Nam Liao",
+      "first": "Soohyun Nam",
+      "last": "Liao",
+      "profile-url": "https://engineering.princeton.edu/faculty/soohyun-nam-liao",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/liao_450x600.jpg",
+      "website": "https://www.cs.princeton.edu/people/profile/soohyunl",
+      "office": "032  Corwin Hall",
+      "phone": "609-258-9248",
+      "research": "Expertise: Computer science education.",
       "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
