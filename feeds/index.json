@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2020-12-26T08:25:17.871785",
+  "timestamp": "2021-01-02T08:29:33.562634",
   "data": [
     {
       "netid": "eabbe",
@@ -347,23 +347,6 @@
       ]
     },
     {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -396,6 +379,23 @@
       "rank": "Assistant Professor",
       "affiliations": [
         "Computer Science"
+      ]
+    },
+    {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
       ]
     },
     {
