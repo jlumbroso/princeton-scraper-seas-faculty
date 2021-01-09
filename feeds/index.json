@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2021-01-02T08:29:33.562634",
+  "timestamp": "2021-01-09T08:35:53.509346",
   "data": [
     {
       "netid": "eabbe",
@@ -347,24 +347,6 @@
       ]
     },
     {
-      "netid": "minjie",
-      "email": "minjie@princeton.edu",
-      "name": "Minjie Chen",
-      "first": "Minjie",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
-      "office": "217 Andlinger Center for Energy and the Environment",
-      "phone": "609-258-7656",
-      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Andlinger Center for Energy and the Environment",
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "danqic",
       "email": "danqic@cs.princeton.edu",
       "name": "Danqi Chen",
@@ -395,6 +377,24 @@
       "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
       "rank": "Assistant Professor",
       "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "minjie",
+      "email": "minjie@princeton.edu",
+      "name": "Minjie Chen",
+      "first": "Minjie",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/minjie-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen_Minjie-IMG_0372-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
+      "office": "217 Andlinger Center for Energy and the Environment",
+      "phone": "609-258-7656",
+      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
         "Electrical Engineering"
       ]
     },
@@ -461,6 +461,23 @@
       "office": "A321 E-Quad",
       "phone": "609-258-4586",
       "research": "Physics and engineering of soft materials; transport through porous media; interfacial phenomena; biophysics; biological polymers; microfluidics; hydrogels; water remediation; microbial communities",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ecd2",
+      "email": "edavidson@princeton.edu",
+      "name": "Emily Davidson",
+      "first": "Emily",
+      "last": "Davidson",
+      "profile-url": "https://engineering.princeton.edu/faculty/emily-davidson",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/EDavidson_Headshot_450_by_600.jpg",
+      "website": "https://cbe.princeton.edu/people/emily-c-davidson",
+      "office": "A407 E-Quad",
+      "phone": "609-258-",
+      "research": "Complex materials and processing, energy and the environment.",
       "rank": "Assistant Professor",
       "affiliations": [
         "Chemical and Biological Engineering"
@@ -755,6 +772,23 @@
       "affiliations": [
         "Architecture",
         "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "ghaempour",
+      "email": "ghaempour@princeton.edu",
+      "name": "Yasaman Ghasempour",
+      "first": "Yasaman",
+      "last": "Ghasempour",
+      "profile-url": "https://engineering.princeton.edu/faculty/yasaman-ghasempour",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/yasaman_ghasempour_cropped.jpg",
+      "website": "https://ee.princeton.edu/people/yasaman-ghasempour",
+      "office": "B322 E-Quad",
+      "phone": "609-258-4682",
+      "research": "Design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication; and sensing systems with a focus on millimeter-wave and terahertz networks, Internet of Things, robotic wireless networks, and wireless security.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Electrical Engineering"
       ]
     },
     {
@@ -1409,23 +1443,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1438,6 +1455,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
