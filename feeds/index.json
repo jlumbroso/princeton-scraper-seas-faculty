@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2021-01-16T08:48:06.711903",
+  "timestamp": "2021-01-23T08:47:59.219673",
   "data": [
     {
       "netid": "eabbe",
@@ -1443,23 +1443,6 @@
       ]
     },
     {
-      "netid": "xiaoyan",
-      "email": "xiaoyan@cs.princeton.edu",
-      "name": "Xiaoyan Li",
-      "first": "Xiaoyan",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~xiaoyan",
-      "office": "104 221 Nassau St.",
-      "phone": "609-258-7844",
-      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "li",
       "email": "li@cs.Princeton.EDU",
       "name": "Kai Li",
@@ -1472,6 +1455,23 @@
       "phone": "609-258-4637",
       "research": "Computer architecture; operating systems; parallel systems; networking",
       "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/xiaoyan-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/li_450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~xiaoyan",
+      "office": "104 221 Nassau St.",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
       ]
@@ -1819,6 +1819,23 @@
       ]
     },
     {
+      "netid": "mmoini",
+      "email": "reza.moini@princeton.edu",
+      "name": "Reza Moini",
+      "first": "Reza",
+      "last": "Moini",
+      "profile-url": "https://engineering.princeton.edu/faculty/reza-moini",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/reza_moini_highres_450x600.jpg",
+      "website": "https://cee.princeton.edu/people/reza-moini",
+      "office": "E324 E-Quad",
+      "phone": "609-258-5426",
+      "research": "Bio-inspired design and development of architected materials using additive manufacturing processes and automated robotic technologies for civil and energy infrastructure applications.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
       "netid": "cmoretti",
       "email": "cmoretti@cs.princeton.edu",
       "name": "Christopher Moretti",
@@ -2038,6 +2055,23 @@
       "rank": "Professor",
       "affiliations": [
         "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "pritykin",
+      "email": "pritykin@princeton.edu",
+      "name": "Yuri Pritykin",
+      "first": "Yuri",
+      "last": "Pritykin",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuri-pritykin",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Pritykin-2020-12-crop_450x600.jpg",
+      "website": "https://www.cs.princeton.edu/people/profile/pritykin",
+      "office": "245 Carl Icahn Library",
+      "phone": "609-258-4522",
+      "research": "Using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
       ]
     },
     {
