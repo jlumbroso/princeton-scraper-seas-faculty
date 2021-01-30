@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2021-01-23T08:47:59.219673",
+  "timestamp": "2021-01-30T08:25:42.506591",
   "data": [
     {
       "netid": "eabbe",
@@ -1358,23 +1358,6 @@
       ]
     },
     {
-      "netid": "jasondl",
-      "email": "jasonlee@princeton.edu",
-      "name": "Jason D. Lee",
-      "first": "Jason D.",
-      "last": "Lee",
-      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
-      "website": "https://ee.princeton.edu/people/jason-d-lee",
-      "office": "B308 E-Quad",
-      "phone": "609-258-8396",
-      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "rblee",
       "email": "rblee@Princeton.EDU",
       "name": "Ruby Lee",
@@ -1387,6 +1370,23 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
+      "affiliations": [
+        "Electrical Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://engineering.princeton.edu/faculty/jason-d-lee",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Jason_lee_450x600.jpg",
+      "website": "https://ee.princeton.edu/people/jason-d-lee",
+      "office": "B308 E-Quad",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
       "affiliations": [
         "Electrical Engineering"
       ]
@@ -2064,7 +2064,7 @@
       "first": "Yuri",
       "last": "Pritykin",
       "profile-url": "https://engineering.princeton.edu/faculty/yuri-pritykin",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Pritykin-2020-12-crop_450x600.jpg",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Yuri%20Pritykin_cc_450x600.jpg",
       "website": "https://www.cs.princeton.edu/people/profile/pritykin",
       "office": "245 Carl Icahn Library",
       "phone": "609-258-4522",
@@ -2518,23 +2518,6 @@
       "rank": "Professor",
       "affiliations": [
         "Civil and Environmental Engineering"
-      ]
-    },
-    {
-      "netid": "asmits",
-      "email": "asmits@Princeton.EDU",
-      "name": "Alexander Smits",
-      "first": "Alexander",
-      "last": "Smits",
-      "profile-url": "https://engineering.princeton.edu/faculty/alexander-smits",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/asmits_1.jpg",
-      "website": "http://mae.princeton.edu/people/faculty/smits",
-      "office": "D218 E-Quad",
-      "phone": "609-258-5117",
-      "research": "Experimental research in fluid mechanics. The behavior of low and high Reynolds number turbulent wall-bounded flows at subsonic, supersonic and hypersonic speeds; the fluid mechanics of swimming and bio-inspired propulsion; blood hemolysis, sports ball aerodynamics; wind turbine aerodynamics and energy harvesting, and the development of new and improved measurement techniques.",
-      "rank": "Professor",
-      "affiliations": [
-        "Mechanical and Aerospace Engineering"
       ]
     },
     {
