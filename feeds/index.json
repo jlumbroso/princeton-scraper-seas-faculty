@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2021-01-30T08:25:42.506591",
+  "timestamp": "2021-02-06T08:22:58.202556",
   "data": [
     {
       "netid": "eabbe",
@@ -16,7 +16,6 @@
       "research": "Information theory, coding theory, statistical signal processing, inference and discrete probability. Particular interests in: computationally efficient methods to process information in applications such as communication networks, data acquisition and data privacy",
       "rank": "Associate Professor",
       "affiliations": [
-        "Electrical Engineering",
         "Mathematics",
         "Applied and Computational Mathematics"
       ]
@@ -172,9 +171,7 @@
       "phone": "609-258-1819",
       "research": "Theoretical condensed matter (solid-state) physics; physics of electronic materials",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "ebouzeid",
@@ -347,23 +344,6 @@
       ]
     },
     {
-      "netid": "yc5",
-      "email": "yuxin.chen@princeton.edu",
-      "name": "Yuxin Chen",
-      "first": "Yuxin",
-      "last": "Chen",
-      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
-      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
-      "office": "C330 E-Quad",
-      "phone": "609-258-1693",
-      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
-      "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
-    },
-    {
       "netid": "minjie",
       "email": "minjie@princeton.edu",
       "name": "Minjie Chen",
@@ -374,11 +354,10 @@
       "website": "http://ee.princeton.edu/people/faculty/minjie-chen",
       "office": "217 Andlinger Center for Energy and the Environment",
       "phone": "609-258-7656",
-      "research": "Design of power conversion and management systems to address technical\nchallenges with large social impacts. High-performance power-conversion\nsystems for a wide range of applications, including smart grid, renewable\ngeneration, energy storage, telecom, data centers, electric vehicles, and\nrobotics.",
+      "research": "Design of power conversion and management systems to address technical\r\nchallenges with large social impacts. High-performance power-conversion\r\nsystems for a wide range of applications, including smart grid, renewable\r\ngeneration, energy storage, telecom, data centers, electric vehicles, and\r\nrobotics.",
       "rank": "Assistant Professor",
       "affiliations": [
-        "Andlinger Center for Energy and the Environment",
-        "Electrical Engineering"
+        "Andlinger Center for Energy and the Environment"
       ]
     },
     {
@@ -399,6 +378,21 @@
       ]
     },
     {
+      "netid": "yc5",
+      "email": "yuxin.chen@princeton.edu",
+      "name": "Yuxin Chen",
+      "first": "Yuxin",
+      "last": "Chen",
+      "profile-url": "https://engineering.princeton.edu/faculty/yuxin-chen",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Chen-Yuxin_0001-600x450.jpg",
+      "website": "http://ee.princeton.edu/people/faculty/yuxin-chen",
+      "office": "C330 E-Quad",
+      "phone": "609-258-1693",
+      "research": "High-dimensional estimation, machine learning, convex and nonconvex optimization, information theory, statistics, statistical signal processing, network science, and their applications in medical imaging and computational biology.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
       "netid": "chou",
       "email": "chou@Princeton.EDU",
       "name": "Stephen Chou",
@@ -411,9 +405,7 @@
       "phone": "609-258-4416",
       "research": "Nanotechnology and nanoscale electronics; optoelectronic; magnetic devices, such as nanoimprint, self-assembly, reactive ion etching, single electron transistors, subwavelength optical elements, patterning of nanoscale organic light emitters and transistors, growth of semiconductors and polymers on nanopatterned substrates, quantized magnetic disks, and giant magnetoresistance",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "q3482",
@@ -496,9 +488,7 @@
       "phone": "609-258-5694",
       "research": "Building quantum hardware with color centers in wide bandgap materials, such as NV centers in diamond. Optics and photonics, surface science and materials engineering, atomic and molecular spectroscopy, nanofabrication, and cryogenics.",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "pdebene",
@@ -735,9 +725,7 @@
       "phone": "609-258-8963",
       "research": "Nonlinear optics and photonics; soliton dynamics; statistical and condensed-matter physics",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "mfreed",
@@ -787,9 +775,7 @@
       "phone": "609-258-4682",
       "research": "Design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication; and sensing systems with a focus on millimeter-wave and terahertz networks, Internet of Things, robotic wireless networks, and wireless security.",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "maia",
@@ -855,9 +841,7 @@
       "phone": "609-258-7489",
       "research": "High performance quantum cascade lasers; innovative quantum cascade laser design; mid-infrared photonics; mid-infrared sensing applications in environment, health, and security; novel semiconductor devices; semiconductor metamaterials.",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "andreajg",
@@ -1010,9 +994,7 @@
       "phone": "609-258-2571",
       "research": "Quantum computing; non-linear and quantum optics; superconducting microwave electronics; decoherence in quantum systems; transport physics",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "hultmark",
@@ -1096,9 +1078,7 @@
       "phone": "609-258-4754",
       "research": "Machine learning; Internet of Things; embedded computing; cybersecurity; computer architecture; computer-aided design of integrated circuits and systems; low-power hardware/software design; 3D monolithic IC design.",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "chij",
@@ -1113,9 +1093,7 @@
       "phone": "609-258-3000",
       "research": "Machine learning, statistics and optimization",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "yju",
@@ -1148,7 +1126,6 @@
       "research": "Molecular and polymer semiconductors; electronic and chemical properties of interfaces; doping in organic thin films; organic-based devices; hybrid metal halide perovskites.",
       "rank": "Professor",
       "affiliations": [
-        "Electrical Engineering",
         "School of Engineering and Applied Science"
       ]
     },
@@ -1319,9 +1296,7 @@
       "phone": "609-258-6727",
       "research": "Statistical pattern recognition, machine learning; applied probability, nonparametric statistics; information theory, communications; wireless networks, sensor networks; signal, image, and video processing; adaptive systems, hybrid systems, control and econometrics and finance",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "kung",
@@ -1336,9 +1311,7 @@
       "phone": "609-258-3780",
       "research": "VLSI signal processing; neural networks; digital signal, image, and video processing; multimedia information systems",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "cklaw",
@@ -1370,9 +1343,7 @@
       "phone": "609-258-1426",
       "research": "Ubiquitous processor and platform architectures for media processing and secure information processing; computer architecture for high-performance, secure, and highly available servers",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "jasondl",
@@ -1387,9 +1358,7 @@
       "phone": "609-258-8396",
       "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "naomi",
@@ -1443,23 +1412,6 @@
       ]
     },
     {
-      "netid": "li",
-      "email": "li@cs.Princeton.EDU",
-      "name": "Kai Li",
-      "first": "Kai",
-      "last": "Li",
-      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
-      "website": "http://www.cs.princeton.edu/~li/",
-      "office": "321 Computer Science Building",
-      "phone": "609-258-4637",
-      "research": "Computer architecture; operating systems; parallel systems; networking",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "xiaoyan",
       "email": "xiaoyan@cs.princeton.edu",
       "name": "Xiaoyan Li",
@@ -1472,6 +1424,23 @@
       "phone": "609-258-7844",
       "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
       "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "https://engineering.princeton.edu/faculty/kai-li",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Li_Kai-2347.jpg",
+      "website": "http://www.cs.princeton.edu/~li/",
+      "office": "321 Computer Science Building",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
       "affiliations": [
         "Computer Science"
       ]
@@ -1609,9 +1578,7 @@
       "phone": "609-258-4635",
       "research": "Optical processes in semiconductors; ultrafast processes and nonequilibrium transport; semiconductor nanostructures; quantum computing",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "am43",
@@ -1814,9 +1781,7 @@
       "phone": "609-258-0814",
       "research": "Secure and privacy-preserving communication systems, including domains of privacy-enhancing technologies, trustworthy social systems, and Internet/network security. Research draws on techniques from computer networks and distributed systems, large-scale machine learning, complex networks/network science and applied cryptography.",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "mmoini",
@@ -2018,10 +1983,7 @@
       "phone": "609-258-1816",
       "research": "Information theory; signal processing; wireless networks; energy systems; social networks",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering",
-        "School of Engineering and Applied Science"
-      ]
+      "affiliations": []
     },
     {
       "netid": "aporpora",
@@ -2087,9 +2049,7 @@
       "phone": "609-258-5549",
       "research": "Photonic switching; fiber-optic networks; optical interconnects",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "prudhomm",
@@ -2138,9 +2098,7 @@
       "phone": "609-258-4645",
       "research": "Video and image processing; adaptive systems; adaptive signal processing; adaptive control; discrete-event systems, optimization of queueing systems; video analysis, annotation and search",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "ar45",
@@ -2173,8 +2131,7 @@
       "research": "Understanding and leveraging the electronic and optical properties of thin film materials, particularly semiconductors, for use in emerging applications such as solar cells, light emitting devices, and transistors. Interdisciplinary research at the intersection of electrical engineering, materials science, physics, and chemistry.",
       "rank": "Associate Professor",
       "affiliations": [
-        "Andlinger Center for Energy and the Environment",
-        "Electrical Engineering"
+        "Andlinger Center for Energy and the Environment"
       ]
     },
     {
@@ -2276,9 +2233,7 @@
       "phone": "609-258-8962",
       "research": "Application and development of analytical and computational methods for studying emerging, fundamental, and practical problems at the intersection of quantum and classical nanophotonics. Control and design of thermal emitters and absorbers, modeling fluctuation-induced electromagnetic phenomena in complex nanostructures and design of low-power, wavelength-scale nonlinear devices.",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "cwrowley",
@@ -2378,9 +2333,7 @@
       "phone": "609-258-5250",
       "research": "Integrated circuits and chip-scale systems  operating across RF-THz-optical frequencies for next generation ultrafast wireless communication, sensing, imaging and low-cost smart biomedical devices for point-of-core applications.",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "sseung",
@@ -2412,9 +2365,7 @@
       "phone": "609-258-4639",
       "research": "Semiconductor physics; electronic properties of low-dimensional semiconductor structures; growth of III-V compounds by molecular beam epitaxy",
       "rank": "Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "mykhaylo",
@@ -2452,6 +2403,23 @@
       ]
     },
     {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
+      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
+      "website": "http://www.cs.princeton.edu/~jps/",
+      "office": "324 Computer Science Building",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
       "netid": "msingh",
       "email": "msingh@Princeton.EDU",
       "name": "Mona Singh",
@@ -2467,23 +2435,6 @@
       "affiliations": [
         "Computer Science",
         "Lewis Sigler Institute for Integrative Genomics"
-      ]
-    },
-    {
-      "netid": "jps",
-      "email": "jps@cs.Princeton.EDU",
-      "name": "Jaswinder Singh",
-      "first": "Jaswinder",
-      "last": "Singh",
-      "profile-url": "https://engineering.princeton.edu/faculty/jaswinder-singh",
-      "image-url": "https://engineering.princeton.edu/sites/default/files/thumbnails/image/Singh_JP-450x600.jpg",
-      "website": "http://www.cs.princeton.edu/~jps/",
-      "office": "324 Computer Science Building",
-      "phone": "609-258-5329",
-      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
-      "rank": "Professor",
-      "affiliations": [
-        "Computer Science"
       ]
     },
     {
@@ -2652,9 +2603,7 @@
       "phone": "609-258-6124",
       "research": "Methods to gain control over individual atoms for computing, communications and sensing technology. Using nanophotonic circuits to spatially isolate and address individual or small clusters of rare earth ion dopants in crystalline hosts for use as single photon sources and quantum memories. Developing techniques to laser-cool and trap large arrays of atoms levitated in vacuum.",
       "rank": "Assistant Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "ogt",
@@ -2686,9 +2635,7 @@
       "phone": "609-258-1993",
       "research": "Nonlinear/quantum optics in complex media; nano-photonics; condensed matter physics; semiconductor optics; strongly correlated quantum optical systems; quantum/wave chaos; numerical methods for simulating active and passive photonic structures",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "rvan",
@@ -2738,7 +2685,6 @@
       "research": "Analog and digital integrated circuits with an emphasis on developing system platforms for emerging applications, especially where considerable computation and instrumentation is required but energy is severely constrained. Important examples include implantable and wearable biomedical systems and remote sensing and processing network nodes.",
       "rank": "Professor",
       "affiliations": [
-        "Electrical Engineering",
         "Keller Center for Innovation in Engineering Education"
       ]
     },
@@ -2772,9 +2718,7 @@
       "phone": "609-258-8773",
       "research": "Decision making and reinforcement learning problems involving uncertainty or hidden information; modeling uncertainty and designing algorithmic approaches that \"learn\" the best decisions as information is revealed. optimization (stochastic, online, and even more), stochastic programming, variational inequalities, dynamic programing, statistical learning, and game dynamics.",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "wayne",
@@ -2859,9 +2803,7 @@
       "phone": "609-258-7781",
       "research": "Computer architecture, operating systems, sustainable computing, data center computing, cloud computing, multicore systems, manycore systems, microprocessor design, low-lower computer design, energy efficient computing.",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "whitece",
@@ -2894,9 +2836,7 @@
       "phone": "609-258-8187",
       "research": "Laser spectroscopy; broadly tunable laser systems; external cavity quantum cascade lasers; spectroscopic systems for remote and/or in-situ chemical sensing and spectroscopic trace-gas sensor networks",
       "rank": "Associate Professor",
-      "affiliations": [
-        "Electrical Engineering"
-      ]
+      "affiliations": []
     },
     {
       "netid": "nyao",
