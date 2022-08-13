@@ -49,7 +49,7 @@ PRINCETON_SEAS_DIRECTORY_URL = urllib.parse.urljoin(
 
 # Hard-coded constants that are required to scrape the web page
 
-CLASS_ITEM = "directory-item"
+CLASS_ITEM = "card"
 CLASS_OFFICE = "office"
 CLASS_PHONE = "phone"
 CLASS_RESEARCH = "research-area"
@@ -246,7 +246,7 @@ def fetch_seas_faculty_directory(fast: bool = False) -> typing.Optional[typing.L
     if s is None:
         return
 
-    directory_items = s.find_all("div", attrs={"class": CLASS_ITEM})
+    directory_items = s.find_all("li", attrs={"class": CLASS_ITEM})
 
     directory_data = list(map(
         lambda t: parse_directory_item(t, fast=fast),
