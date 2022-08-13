@@ -1,4 +1,5 @@
 
+import re
 import typing
 import urllib.parse
 
@@ -52,7 +53,7 @@ PRINCETON_SEAS_DIRECTORY_URL = urllib.parse.urljoin(
 CLASS_ITEM = "card"
 CLASS_OFFICE = "office"
 CLASS_PHONE = "phone"
-CLASS_RESEARCH = "research-area"
+CLASS_RESEARCH = "expertise"  # changed from "research-interests" to "expertise"
 CLASS_PRIMARY_AFF = "primary-affiliations"
 CLASS_OTHER_AFF = "other-affiliations"
 
@@ -62,7 +63,7 @@ STR_OFFICE = "Office:"
 STR_PHONE = "Phone:"
 STR_PRIMARY_AFF = "Primary Affiliations:"
 STR_OTHER_AFF = "Other Affiliations:"
-STR_RESEARCH = "Research Interests:"
+STR_RESEARCH = "Research interests:"
 
 
 def _from_tag_or_string_to_string(tag_or_string: typing.Union[str, bs4.element.Tag]) -> str:
@@ -149,12 +150,13 @@ def parse_directory_item(block: bs4.element.Tag, fast: bool = False) -> SeasFacu
     if tag_name is not None:
         dirinfo["name"] = tag_name.text.strip()
 
-        first, last = princeton_scraper_seas_faculty.helpers.split_name(dirinfo["name"])
+        first, last = princeton_scraper_seas_faculty.helpers.split_name(
+            dirinfo["name"])
         dirinfo["first"] = first
         dirinfo["last"] = last
 
     # parse the profile URL
-    tag_profile_url = tag_name.find("a")
+    tag_profile_url = block.find("a")
     if tag_profile_url is not None:
         dirinfo["profile-url"] = urllib.parse.urljoin(
             PRINCETON_SEAS_DIRECTORY_BASE,
@@ -177,6 +179,127 @@ def parse_directory_item(block: bs4.element.Tag, fast: bool = False) -> SeasFacu
         # compute and clean up the string
         s_office = tag_office.text
         s_office = s_office.replace(STR_OFFICE, "")
+        s_office = re.sub(r",\s+", " ", s_office)
+        s_office = s_office.strip()
+
+        dirinfo["office"] = s_office
+
+    # parse the phone number
+    tag_phone = block.find("p", attrs={"class": CLASS_PHONE})
+    if tag_phone is not None:
+
+        # compute and clean up the string
+        s_phone = tag_phone.text
+        s_phone = s_phone.replace(STR_PHONE, "")
+        s_phone = s_phone.strip()
+
+        dirinfo["phone"] = s_phone
+
+    # parse the research interests
+    tag_research = block.find("p", attrs={"class": CLASS_RESEARCH})
+    if tag_research is not None:
+
+        # compute and clean up the string
+        s_research = tag_research.text
+        s_research = s_research.replace(STR_RESEARCH, "")
+        s_research = s_research.replace(STR_RESEARCH.title(), "")
+        s_research = s_research.strip()
+
+        dirinfo["research"] = s_research
+
+    ############################################################
+
+    # parse affiliation (old version)
+    #tag_affiliation = block.find("p", attrs={"class": CLASS_PRIMARY_AFF})
+    # if tag_affiliation is not None:
+    #
+    #    # compute and clean up the string
+    #    s_affiliation = tag_affiliation.text
+    #    s_affiliation = s_affiliation.replace(STR_PRIMARY_AFF, "")
+    #    s_affiliation = s_affiliation.strip()
+    #
+    #    dirinfo["affiliation"] = s_affiliation
+
+    # parse affiliation and rank
+    tag_bigstring = block.find("h4")
+    if tag_bigstring is not None:
+        data = parse_affiliation_and_rank(tag_bigstring)
+        dirinfo.update(data)
+
+    return dirinfo
+
+
+def fetch_directory_item_from_profile_url(info: SeasFacultyInformation, fast: bool = False) -> SeasFacultyInformation:
+    """
+    Returns a parsed `SeasFacultyInformation` dictionary, provided a DOM subtree
+    of a block representing one item of the SEAS directory page.
+
+    :param block: The DOM subtree for the directory item, as a BeautifulSoup `bs4.element.Tag`
+
+    :param fast: Determines whether some optimizations should be made to avoid making
+    many HTTP requests (but at the expense of data accuracy); unless speed is a
+    consideration, set this to `False`.
+
+    :return: The parsed directory item as a `SeasFacultyInformation` dictionary
+    """
+
+    if "profile-url" not in info:
+        return info
+
+    dirinfo = {}
+
+    block = bs4.BeautifulSoup(requests.get(
+        info["profile-url"]).content, features="html.parser").find("div", attrs={"class": "entry-content"})
+
+    # parse the email
+    tag_email = block.find("a", string=STR_EMAIL)
+    if tag_email is not None:
+        email = tag_email["href"].replace("mailto:", "").strip()
+        # noinspection PyBroadException
+        try:
+            netid = princeton_scraper_seas_faculty.campus_directory.find_netid_from_princeton_email(
+                princeton_email=email, fast=fast)
+        except:
+            netid = None
+
+        dirinfo["netid"] = netid
+        dirinfo["email"] = email
+
+    # parse the name
+    tag_name = block.find("h1")
+    if tag_name is not None:
+        dirinfo["name"] = tag_name.text.strip()
+
+        first, last = princeton_scraper_seas_faculty.helpers.split_name(
+            dirinfo["name"])
+        dirinfo["first"] = first
+        dirinfo["last"] = last
+
+    # parse the profile URL
+    tag_profile_url = block.find("a")
+    if tag_profile_url is not None:
+        dirinfo["profile-url"] = urllib.parse.urljoin(
+            PRINCETON_SEAS_DIRECTORY_BASE,
+            tag_profile_url["href"])
+
+    # parse the image
+    tag_img = block.find("img")
+    if tag_img is not None:
+        dirinfo["image-url"] = tag_img.get("src", "")
+
+    # parse the web address
+    tag_email = block.find("a", string=STR_WEBSITE)
+    if tag_email is not None:
+        dirinfo["website"] = tag_email["href"]
+
+    # parse the office
+    tag_office = block.find("p", attrs={"class": CLASS_OFFICE})
+    if tag_office is not None:
+
+        # compute and clean up the string
+        s_office = tag_office.text
+        s_office = s_office.replace(STR_OFFICE, "")
+        s_office = re.sub(r",\s+", " ", s_office)
         s_office = s_office.strip()
 
         dirinfo["office"] = s_office
@@ -205,19 +328,8 @@ def parse_directory_item(block: bs4.element.Tag, fast: bool = False) -> SeasFacu
 
     ############################################################
 
-    # parse affiliation (old version)
-    #tag_affiliation = block.find("p", attrs={"class": CLASS_PRIMARY_AFF})
-    #if tag_affiliation is not None:
-    #
-    #    # compute and clean up the string
-    #    s_affiliation = tag_affiliation.text
-    #    s_affiliation = s_affiliation.replace(STR_PRIMARY_AFF, "")
-    #    s_affiliation = s_affiliation.strip()
-    #
-    #    dirinfo["affiliation"] = s_affiliation
-
     # parse affiliation and rank
-    tag_bigstring = block.find("h4")
+    tag_bigstring = block.find("h3")
     if tag_bigstring is not None:
         data = parse_affiliation_and_rank(tag_bigstring)
         dirinfo.update(data)
@@ -253,5 +365,3 @@ def fetch_seas_faculty_directory(fast: bool = False) -> typing.Optional[typing.L
         directory_items))
 
     return directory_data
-
-
