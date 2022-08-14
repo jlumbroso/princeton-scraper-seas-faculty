@@ -31,7 +31,8 @@ def csv_output(fast: bool = False):
     try:
         data = princeton_scraper_seas_faculty.seas_faculty_directory.fetch_seas_faculty_directory(fast=fast)
         for row in data:
-            del row["research"]
+            if "research" in row:
+                del row["research"]
             row["affiliations"] = ";".join(row["affiliations"])
         return comma.dumps(data)
     except Exception:

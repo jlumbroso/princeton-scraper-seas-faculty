@@ -251,8 +251,11 @@ def fetch_directory_item_from_profile_url(info: SeasFacultyInformation, fast: bo
     block = bs4.BeautifulSoup(requests.get(
         info["profile-url"]).content, features="html.parser").find("div", attrs={"class": "entry-content"})
 
+    if block is None:
+        return info
+
     # parse the email
-    tag_email = block.find("a", string=STR_EMAIL)
+    tag_email = block.find("p", attrs={"class": "email"}).find("a")
     if tag_email is not None:
         email = tag_email["href"].replace("mailto:", "").strip()
         # noinspection PyBroadException
@@ -363,5 +366,9 @@ def fetch_seas_faculty_directory(fast: bool = False) -> typing.Optional[typing.L
     directory_data = list(map(
         lambda t: parse_directory_item(t, fast=fast),
         directory_items))
+
+    directory_data = list(map(
+        lambda t: fetch_directory_item_from_profile_url(t, fast=fast),
+        directory_data))
 
     return directory_data

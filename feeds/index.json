@@ -1,5 +1,2848 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-08-13T16:19:03.675410",
-  "data": []
+  "timestamp": "2022-08-14T00:54:48.811798",
+  "data": [
+    {
+      "netid": "rpa",
+      "email": "rpa@princeton.edu",
+      "name": "Ryan P. Adams",
+      "first": "Ryan P.",
+      "last": "Adams",
+      "profile-url": "http://www.cs.princeton.edu/~rpa/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/generate_thumbnail.jpeg",
+      "office": "Computer Science 411",
+      "phone": "609-258-8682",
+      "research": "Machine learning and computational statistics with applications in science and engineering.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "sadriaen",
+      "email": "sadriaen@Princeton.EDU",
+      "name": "Sigrid Adriaenssens",
+      "first": "Sigrid",
+      "last": "Adriaenssens",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=sadriaen",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/20170713_adriaenssenss_dkc_0001_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad E332",
+      "phone": "609-258-4661",
+      "research": "Bridges: new structural (mobile) typologies; pre-stressed tension structures: splines and membranes; shells: textile reinforced shells, adaptable formwork, shape optimization; historic structures: restoration and upgrading methodologies; durability: life-cycle design of new infrastructure; efficiency: form-finding techniques, structural optimization, with applications in energy efficiency and human health.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "aaa",
+      "email": "a_a_a@princeton.edu",
+      "name": "Amir Ali Ahmadi",
+      "first": "Amir Ali",
+      "last": "Ahmadi",
+      "profile-url": "http://aaa.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ahmadi_1-1.jpg",
+      "office": "Sherrerd Hall 329",
+      "phone": "609-258-6416",
+      "research": "Optimization: algebraic methods in optimization, semidefinite programming, polynomial optimization; \nComputational aspects of dynamics and control: Lyapunov theory and optimization-based algorithms for robustness and stability analysis; \nAlgorithms and complexity: Computational complexity in numerical optimization, convex relaxations in combinatorial optimization. Applications in systems theory, statistics, robotics, and economics.",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "appel",
+      "email": "appel@cs.Princeton.EDU",
+      "name": "Andrew Appel",
+      "first": "Andrew",
+      "last": "Appel",
+      "profile-url": "http://www.cs.princeton.edu/~appel/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/AndrewAppel-324.jpeg",
+      "office": "Computer Science Room 209",
+      "phone": "609-258-4627",
+      "research": "Computer security; information technology policy; election technology; programming languages; compilers; programming language semantics; program analysis; program verification; machine-checked proofs",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "cbarnold",
+      "email": "cbarnold@Princeton.EDU",
+      "name": "Craig Arnold",
+      "first": "Craig",
+      "last": "Arnold",
+      "profile-url": "http://mae.princeton.edu/people/faculty/arnold/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/arnold-9455_600x450_1-1.jpg",
+      "office": "E-Quad D410",
+      "phone": "609-258-0250",
+      "research": "Laser processing and transport in materials with particular emphasis on shaping laser-material interactions",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering",
+        "Princeton Institute for the Science and Technology of Materials"
+      ]
+    },
+    {
+      "netid": "arora",
+      "email": "arora@cs.Princeton.EDU",
+      "name": "Sanjeev Arora",
+      "first": "Sanjeev",
+      "last": "Arora",
+      "profile-url": "http://unsupervised.cs.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/arora_450x600_1-1-1568x2091.jpg",
+      "office": "Computer Science Building 307",
+      "phone": "609-258-3869",
+      "research": "Theoretical computer science and theoretical machine learning. Computational complexity (especially probabilistically checkable proofs), computing approximate solutions to intractable problems. Data science (also natural language processing and neuroscience).",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "august",
+      "email": "august@Princeton.EDU",
+      "name": "David August",
+      "first": "David",
+      "last": "August",
+      "profile-url": "http://www.cs.princeton.edu/~august/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/august_6-1.jpg",
+      "office": "Computer Science Building 209",
+      "phone": "609-258-2085",
+      "research": "Computer architecture; languages, compilers, and run-time systems; parallelism; programmability, performance, efficiency, reliability, and security.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "javalos",
+      "email": "javalos@princeton.edu",
+      "name": "Jos\u00e9 Avalos",
+      "first": "Jos\u00e9",
+      "last": "Avalos",
+      "profile-url": "https://www.princeton.edu/cbe/people/faculty/avalos/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Avalos_450x600-1.jpg",
+      "office": "Hoyt Chemical Laboratory 101",
+      "phone": "609-258-",
+      "research": "Biotechnology: Use of synthetic biology and metabolic engineering to address important problems in sustainable energy, the environment, industry, and human health.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "rb0323",
+      "email": "ryne@princeton.edu",
+      "name": "Ryne Beeson",
+      "first": "Ryne",
+      "last": "Beeson",
+      "profile-url": "https://mae.princeton.edu/people/faculty/beeson",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/10/Ryne_Beeson_450x600.jpeg",
+      "office": "Engineering Quadrangle D434",
+      "phone": "609 258 3089",
+      "research": "Control, robotics and dynamical systems; mathematical and numerical research for astrodynamics, space and Earth weather applications; optimal control, local and global numerical optimization; stochastic dynamical systems, nonlinear filtering.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "ravin",
+      "email": "ravin@Princeton.EDU",
+      "name": "Ravindra Bhatt",
+      "first": "Ravindra",
+      "last": "Bhatt",
+      "profile-url": "http://ee.princeton.edu/people/faculty/ravindra-n-bhatt",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ravindra_bhatt_450x600_1-1.jpg",
+      "office": "E-Quad B430",
+      "phone": "609-258-1819",
+      "research": "Theoretical condensed matter (solid-state) physics; physics of electronic materials",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "ebouzeid",
+      "email": "ebouzeid@Princeton.EDU",
+      "name": "Elie Bou-Zeid",
+      "first": "Elie",
+      "last": "Bou-Zeid",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person.xml?netid=ebouzeid",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/boudzeid_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad C326",
+      "phone": "609-258-5429",
+      "research": "Environmental flows and turbulence, energy models for cities and buildings, boundary-layer meteorology, surface-atmosphere interactions; hydrometeorology; large-eddy simulation; sensor networks",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "icb2",
+      "email": "bourg@princeton.edu",
+      "name": "Ian Bourg",
+      "first": "Ian",
+      "last": "Bourg",
+      "profile-url": "https://www.princeton.edu/cee/people/display_person/?netid=bourg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/bourg_450x600_dkc-1-1568x2091.jpg",
+      "office": "E-Quad E416",
+      "phone": "609-258-4541",
+      "research": "Geochemical and mass transport properties of porous media, including clay mineral surface geochemistry; geologic carbon sequestration; kinetic isotope effects in aqueous systems; liquid water at interfaces; coupling between geochemistry, geomechanics, and mass fluxes in porous media.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "cbrangwy",
+      "email": "cbrangwy@princeton.edu",
+      "name": "Clifford Brangwynne",
+      "first": "Clifford",
+      "last": "Brangwynne",
+      "profile-url": "https://softlivingmatter.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/brangwynne_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad A313",
+      "phone": "609-258-4528",
+      "research": "Patterning in Developing Embryos; Physical Properties and Function of RNA/Protein Bodies; Architecture and Dynamics of the Cytoskeleton",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "mbraverm",
+      "email": "mbraverm@Princeton.EDU",
+      "name": "Mark Braverman",
+      "first": "Mark",
+      "last": "Braverman",
+      "profile-url": "http://www.cs.princeton.edu/people/profile/mbraverm",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/braverman_450x600_1-1.jpg",
+      "office": "194 Nassau St. 231",
+      "phone": "(609) 258-8130",
+      "research": "Complexity theory, algorithms, game theory, machine learning, and applications of computer science in healthcare and medicine.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "pbrun",
+      "email": "pbrun@princeton.edu",
+      "name": "Pierre-Thomas Brun",
+      "first": "Pierre-Thomas",
+      "last": "Brun",
+      "profile-url": "https://www.princeton.edu/cbe/people/faculty/brun/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/brun_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad A313",
+      "phone": "609-258-2620",
+      "research": "Fluid mechanics and elasticity; interfacial phenomenon and capillary effects; desktop experiments and minimal models; instability in soft matter; soft robotics; shape morphing and morphogenesis.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "mbrynild",
+      "email": "mbrynild@Princeton.EDU",
+      "name": "Mark Brynildsen",
+      "first": "Mark",
+      "last": "Brynildsen",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/brynildsen_450x600_1-1-1568x2089.jpg",
+      "office": "Hoyt Laboratory 205",
+      "phone": "609-258-1995",
+      "research": "Bacterial persistence, host-pathogen interactions, network biology of bacterial stress.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "rcarmona",
+      "email": "rcarmona@Princeton.EDU",
+      "name": "Rene Carmona",
+      "first": "Rene",
+      "last": "Carmona",
+      "profile-url": "http://www.princeton.edu/~rcarmona/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/carmona2-600x450_1-1.jpg",
+      "office": "Sherrerd Hall 210",
+      "phone": "609-258-2310",
+      "research": "Mathematical analysis of energy and emission markets; gas and electricity trading; design of cap-and-trade schemes; models and computational methods for the equity and credit markets",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "eac",
+      "email": "eac@princeton.edu",
+      "name": "Emily A. Carter",
+      "first": "Emily A.",
+      "last": "Carter",
+      "profile-url": "https://mae.princeton.edu/people/faculty/carter",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/01/Emily_Carter_DKC_450x600.jpg",
+      "office": "Engineering Quadrangle D430",
+      "phone": "609-258-5391",
+      "research": "Quantum mechanical simulation techniques to enable discovery and design of molecules and materials for sustainable energy and carbon dioxide utilization.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Mathematics",
+        "Mechanical and Aerospace Engineering",
+        "Applied and Computational Mathematics"
+      ]
+    },
+    {
+      "netid": "cattaneo",
+      "email": "cattaneo@princeton.edu",
+      "name": "Matias D. Cattaneo",
+      "first": "Matias D.",
+      "last": "Cattaneo",
+      "profile-url": "https://cattaneo.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/cattaneo_0866_450x600_1-1-1568x2090.jpg",
+      "office": "Sherrerd Hall 227",
+      "phone": "609-258-8825",
+      "research": "Mathematical statistics; econometrics; data science; quantitative methods in the social, behavioral and biomedical sciences; causal inference and program evaluation.",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "celia",
+      "email": "celia@Princeton.EDU",
+      "name": "Michael Celia",
+      "first": "Michael",
+      "last": "Celia",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person.xml?netid=celia",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/celia_450x600_0-1-1568x2091.jpg",
+      "office": "E-Quad E205",
+      "phone": "609-258-5425",
+      "research": "Carbon mitigation; ecohydrology; subsurface hydrology; ecohydrology, numerical modeling, contaminant transport simulation; multiphase flow physics",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering",
+        "Princeton Environmental Institute"
+      ]
+    },
+    {
+      "netid": "chazelle",
+      "email": "chazelle@cs.Princeton.EDU",
+      "name": "Bernard Chazelle",
+      "first": "Bernard",
+      "last": "Chazelle",
+      "profile-url": "http://www.cs.princeton.edu/~chazelle/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/chazelle_1_3-1.jpg",
+      "office": "194 Nassau St. 301",
+      "phone": "609-258-5380",
+      "research": "Natural algorithms, dynamical systems, dynamic networks, computational geometry, discrepancy theory",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "minjie",
+      "email": "minjie@princeton.edu",
+      "name": "Minjie Chen",
+      "first": "Minjie",
+      "last": "Chen",
+      "profile-url": "http://ee.princeton.edu/people/faculty/minjie-chen",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/chen_minjie-img_0372-600x450_1-1.jpg",
+      "office": "Andlinger Center for Energy and the Environment 217",
+      "phone": "609-258-7656",
+      "research": "Design of power conversion and management systems to address technical\r\nchallenges with large social impacts. High-performance power-conversion\r\nsystems for a wide range of applications, including smart grid, renewable\r\ngeneration, energy storage, telecom, data centers, electric vehicles, and\r\nrobotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment"
+      ]
+    },
+    {
+      "netid": "danqic",
+      "email": "danqic@cs.princeton.edu",
+      "name": "Danqi Chen",
+      "first": "Danqi",
+      "last": "Chen",
+      "profile-url": "https://www.cs.princeton.edu/~danqic/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/d_chen_450x600-1-1568x2091.jpg",
+      "office": "Computer Science 412",
+      "phone": "609-258-8680",
+      "research": "Natural language processing, machine learning and deep learning.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "chou",
+      "email": "chou@Princeton.EDU",
+      "name": "Stephen Chou",
+      "first": "Stephen",
+      "last": "Chou",
+      "profile-url": "http://ee.princeton.edu/people/faculty/stephen-chou",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/chou_1_2-1.jpg",
+      "office": "E-Quad B412",
+      "phone": "609-258-4416",
+      "research": "Nanotechnology and nanoscale electronics; optoelectronic; magnetic devices, such as nanoimprint, self-assembly, reactive ion etching, single electron transistors, subwavelength optical elements, patterning of nanoscale organic light emitters and transistors, growth of semiconductors and polymers on nanopatterned substrates, quantized magnetic disks, and giant magnetoresistance",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "q3482",
+      "email": "q3482@Princeton.EDU",
+      "name": "Edgar Choueiri",
+      "first": "Edgar",
+      "last": "Choueiri",
+      "profile-url": "http://mae.princeton.edu/people/faculty/choueiri",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/q3482_1_1-1.jpg",
+      "office": "E-Quad D432",
+      "phone": "609-258-5220",
+      "research": "High-power rocket system for the robotic and human exploration of the Moon and Mars; physics and application of plasma thrusters. Also: audio, acoustics, and 3D sound.",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "djctwo",
+      "email": "danielcohen@princeton.edu",
+      "name": "Daniel J. Cohen",
+      "first": "Daniel J.",
+      "last": "Cohen",
+      "profile-url": "https://mae.princeton.edu/people/faculty/cohen",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/danielcohen400x600_1-1.jpg",
+      "office": "Hoyt 111",
+      "phone": "609-258-3000",
+      "research": "Bioengineering; biomaterials; materials science; biomechanics; swarm behavior",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "jc4416",
+      "email": "jmconway@princeton.edu",
+      "name": "Jonathan Conway",
+      "first": "Jonathan",
+      "last": "Conway",
+      "profile-url": "https://cbe.princeton.edu/people/jonathan-conway",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/conway_450x600-1568x2091.jpg",
+      "office": "Engineering Quadrangle A225",
+      "phone": "609-258-7975",
+      "research": "Plant-microbe and microbe-microbe interactions at plant-microbe interfaces",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ssdatta",
+      "email": "ssdatta@princeton.edu",
+      "name": "Sujit Datta",
+      "first": "Sujit",
+      "last": "Datta",
+      "profile-url": "https://www.princeton.edu/cbe/people/faculty/datta/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/datta_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad A321",
+      "phone": "609-258-4586",
+      "research": "Physics and engineering of soft materials; transport through porous media; interfacial phenomena; biophysics; biological polymers; microfluidics; hydrogels; water remediation; microbial communities",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ecd2",
+      "email": "edavidson@princeton.edu",
+      "name": "Emily Davidson",
+      "first": "Emily",
+      "last": "Davidson",
+      "profile-url": "https://cbe.princeton.edu/people/emily-c-davidson",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Davidson_450x600-1.jpg",
+      "office": "E-Quad A407",
+      "research": "Complex materials and processing, energy and the environment.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ndleon",
+      "email": "npdeleon@princeton.edu",
+      "name": "Nathalie de Leon",
+      "first": "Nathalie",
+      "last": "de Leon",
+      "profile-url": "http://www.ee.princeton.edu/people/faculty/nathalie-de-leon",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/de_leon_2_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad B320",
+      "phone": "609-258-5694",
+      "research": "Building quantum hardware with color centers in wide bandgap materials, such as NV centers in diamond. Optics and photonics, surface science and materials engineering, atomic and molecular spectroscopy, nanofabrication, and cryogenics.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "pdebene",
+      "email": "pdebene@Princeton.EDU",
+      "name": "Pablo Debenedetti",
+      "first": "Pablo",
+      "last": "Debenedetti",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/debenedetti/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/debenedetti_headshot_450x600_1-1.jpg",
+      "office": "91 Prospect Ave./Office of the Dean for Research 107",
+      "phone": "609-258-5480",
+      "research": "Protein thermodynamics; ice nucleation in the atmosphere; liquid-state theory; theory of the glass transition; theory of nucleation; molecular theory of water and aqueous systems.",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ldeike",
+      "email": "ldeike@princeton.edu",
+      "name": "Luc Deike",
+      "first": "Luc",
+      "last": "Deike",
+      "profile-url": "http://mae.princeton.edu/people/faculty/deike",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/deike_05-600x450_1-1.jpg",
+      "office": "E-Quad D428",
+      "phone": "609-258-7920",
+      "research": "Fundamental fluid dynamics with an emphasis on non-linear and multi-scale systems. Addressing fundamental physics problems related to environmental and industrial applications, including the statistics of waves in the ocean, floating ice sheets, gas transfer by surface breaking waves in the ocean, and spray dynamics in the atmosphere.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Princeton Environmental Institute"
+      ]
+    },
+    {
+      "netid": "jiadeng",
+      "email": "jiadeng@cs.princeton.edu",
+      "name": "Jia Deng",
+      "first": "Jia",
+      "last": "Deng",
+      "profile-url": "http://www.cs.princeton.edu/~jiadeng/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jiadeng_450x600_1-1.jpg",
+      "office": "Computer Science 423",
+      "phone": "609-258-1203",
+      "research": "Computer vision and machine learning; achieving human-level visual understanding by integrating perception, cognition, and learning.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "ad6725",
+      "email": "adji@princeton.edu",
+      "name": "Adji Bousso Dieng",
+      "first": "Adji Bousso",
+      "last": "Dieng",
+      "profile-url": "mailto:adji@princeton.edu",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/10/Dieng_450x600.jpeg",
+      "office": "Computer Science 406",
+      "phone": "609-258-5935",
+      "research": "Artificial intelligence and probabilistic machine learning with applications in science and health care.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "rdondero",
+      "email": "rdondero@cs.prineton.edu",
+      "name": "Robert Dondero Jr.",
+      "first": "Robert Dondero",
+      "last": "Jr.",
+      "profile-url": "https://www.cs.princeton.edu/~rdondero/index.html",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/dondero_450x600_1-1-1568x2090.jpg",
+      "office": "Corwin Hall 38",
+      "phone": "609-258-2211",
+      "research": "Expertise: Computer programming, computer programming education, software engineering, software engineering education.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "zdvir",
+      "email": "zdvir@Princeton.EDU",
+      "name": "Zeev Dvir",
+      "first": "Zeev",
+      "last": "Dvir",
+      "profile-url": "http://www.cs.princeton.edu/~zdvir/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/zdvir_1_1-1.jpg",
+      "office": "Computer Science 315",
+      "phone": "609-258-6469",
+      "research": "Computational complexity, pseudo-randomness, coding theory and discrete mathematics.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science",
+        "Mathematics"
+      ]
+    },
+    {
+      "netid": "lelgabry",
+      "email": "lelgabry@princeton.edu",
+      "name": "Lamyaa El-Gabry",
+      "first": "Lamyaa",
+      "last": "El-Gabry",
+      "profile-url": "https://mae.princeton.edu/people/faculty/el-gabry",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/El_G_450x600.jpg",
+      "office": "E-Quad D324",
+      "phone": "609-258-1916",
+      "research": "Expertise: Fluid mechanics, propulsion and energy sciences.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "bee",
+      "email": "bee@princeton.edu",
+      "name": "Barbara Engelhardt",
+      "first": "Barbara",
+      "last": "Engelhardt",
+      "profile-url": "http://www.cs.princeton.edu/people/profile/bee",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/bee_1_2-1.jpg",
+      "office": "Computer Science 322",
+      "phone": "609-258-0933",
+      "research": "Machine learning, Bayesian statistics, statistical genetics, computational biology, quantitative genetics.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jqfan",
+      "email": "jqfan@Princeton.EDU",
+      "name": "Jianqing Fan",
+      "first": "Jianqing",
+      "last": "Fan",
+      "profile-url": "http://orfe.princeton.edu/~jqfan/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/fan2-450x600_1-1.jpg",
+      "office": "Sherrerd Hall 205",
+      "phone": "609-258-7924",
+      "research": "High-dimensional statistics, machine learning,  financial econometrics, biostatistics, computational biology, distributed computing.",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "af",
+      "email": "af@cs.Princeton.EDU",
+      "name": "Adam Finkelstein",
+      "first": "Adam",
+      "last": "Finkelstein",
+      "profile-url": "http://www.cs.princeton.edu/~af/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/af_1_3-1.jpg",
+      "office": "Computer Science Building 424",
+      "phone": "609-258-5756",
+      "research": "Computer graphics; abstract animation; depiction of 3D shape; interactive tools for artists, designers and architects; computer generated line drawings; non-photorealistic rendering; scientific and information visualization",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jfisac",
+      "email": "jfisac@princeton.edu",
+      "name": "Jaime Fern\u00e1ndez Fisac",
+      "first": "Jaime Fern\u00e1ndez",
+      "last": "Fisac",
+      "profile-url": "https://ee.princeton.edu/people/jaime-fernandez-fisac",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Fisac_450x600-1.jpg",
+      "office": "E-Quad B316",
+      "phone": "609-258-2017",
+      "research": "Operations of robotic systems in the human space.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "rfish",
+      "email": "rfish@cs.princeton.edu",
+      "name": "Robert Fish",
+      "first": "Robert",
+      "last": "Fish",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/rfish",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rfish_450x600_1-1-1568x2090.jpg",
+      "office": "Corwin Hall 37",
+      "phone": "609-258-0839",
+      "research": "Expertise: Networking and Telecommunications, Computer-Human Interaction, Online Learning and MOOCs, R&D Innovation Methodologies",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jasonf",
+      "email": "jasonf@Princeton.EDU",
+      "name": "Jason Fleischer",
+      "first": "Jason",
+      "last": "Fleischer",
+      "profile-url": "http://ee.princeton.edu/people/faculty/jason-w-fleischer",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/fleischer-j_450x600_1-1.jpg",
+      "office": "E-Quad B320",
+      "phone": "609-258-8963",
+      "research": "Nonlinear optics and photonics; soliton dynamics; statistical and condensed-matter physics",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "mfreed",
+      "email": "mfreed@Princeton.EDU",
+      "name": "Michael Freedman",
+      "first": "Michael",
+      "last": "Freedman",
+      "profile-url": "http://www.cs.princeton.edu/~mfreed/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/freedman4939-600x450_2-1.jpg",
+      "office": "Computer Science Building 308",
+      "phone": "609-258-9179",
+      "research": "Peer-assisted content distribution; federated virtual worlds; service-centric network architectures; scalable storage systems; fault-tolerant systems; distributed monitoring and debugging; privacy-preserving protocols",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mgarlock",
+      "email": "mgarlock@Princeton.EDU",
+      "name": "Maria Garlock",
+      "first": "Maria",
+      "last": "Garlock",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person.xml?netid=mgarlock",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/MariaGarlock_450x600_0-1-1568x2091.jpg",
+      "office": "E-Quad E328",
+      "phone": "609-258-2728",
+      "research": "Structural engineering; earthquake engineering; innovative structural systems; large fires; thin shell concrete roof structures; sensor technology in civil infrastructure; tall building design",
+      "rank": "Professor",
+      "affiliations": [
+        "Architecture",
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "ghaempour",
+      "email": "ghaempour@princeton.edu",
+      "name": "Yasaman Ghasempour",
+      "first": "Yasaman",
+      "last": "Ghasempour",
+      "profile-url": "https://ee.princeton.edu/people/yasaman-ghasempour",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Ghasem20Pour_450x600-1-1568x2091.jpg",
+      "phone": "609-258-4682",
+      "research": "Design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication; and sensing systems with a focus on millimeter-wave and terahertz networks, Internet of Things, robotic wireless networks, and wireless security.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "maia",
+      "email": "maia@cs.princeton.edu",
+      "name": "Maia Ginsburg",
+      "first": "Maia",
+      "last": "Ginsburg",
+      "profile-url": "http://www.cs.princeton.edu/~maia",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ginsburg_450x600_1-1-1568x2091.jpg",
+      "office": "Corwin Hall 41",
+      "phone": "609-258-6484",
+      "research": "Expertise: Algorithms and data structures, general computer science.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "aglaser",
+      "email": "aglaser@Princeton.EDU",
+      "name": "Alexander Glaser",
+      "first": "Alexander",
+      "last": "Glaser",
+      "profile-url": "http://mae.princeton.edu/people/faculty/glaser",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/glaserwws2-600x450_1-1.jpg",
+      "office": "221 Nassau St. 202",
+      "phone": "609-258-5692",
+      "research": "Nuclear energy; climate change; nuclear reactor technologies; neutronics calculations; nuclear fuel cycle analysis and modeling; nuclear arms control and disarmament verification; projects in partnership with the Program in Science and Global Security and the Program in Science, Technology and Environmental Policy of the Woodrow Wilson School.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "bglisic",
+      "email": "bglisic@Princeton.EDU",
+      "name": "Branko Gli\u0161i\u0107",
+      "first": "Branko",
+      "last": "Gli\u0161i\u0107",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=bglisic",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Glisic_450x6002028129-1-1568x2091.jpg",
+      "office": "E-Quad E330",
+      "phone": "609-258-8278",
+      "research": "Structural health monitoring and structural analysis; SHM methods and strategies, fiber optic sensors and advanced sensory systems; smart structures and intelligent infrastructure; hazard mitigation and enhancement of safety; model-based and model-free data analysis",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "cgmachl",
+      "email": "cgmachl@Princeton.EDU",
+      "name": "Claire Gmachl",
+      "first": "Claire",
+      "last": "Gmachl",
+      "profile-url": "http://ee.princeton.edu/people/faculty/claire-gmachl",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/gmachl-c_450x600_1-1.jpg",
+      "office": "E-Quad B326",
+      "phone": "609-258-7489",
+      "research": "High performance quantum cascade lasers; innovative quantum cascade laser design; mid-infrared photonics; mid-infrared sensing applications in environment, health, and security; novel semiconductor devices; semiconductor metamaterials.",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "andreajg",
+      "email": "goldsmith@princeton.edu",
+      "name": "Andrea Goldsmith",
+      "first": "Andrea",
+      "last": "Goldsmith",
+      "profile-url": "https://ee.princeton.edu/people/andrea-goldsmith",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/goldsmith_450x600-1.jpg",
+      "office": "E-Quad C230",
+      "phone": "609-258-2448",
+      "research": "Information theory, communication theory, and signal processing, and their application to wireless communications, interconnected systems, and neuroscience.",
+      "rank": "Professor",
+      "affiliations": [
+        "School of Engineering and Applied Science"
+      ]
+    },
+    {
+      "netid": "dgraves",
+      "email": "dgraves@pppl.gov",
+      "name": "David Graves",
+      "first": "David",
+      "last": "Graves",
+      "profile-url": "https://cbe.princeton.edu/people/david-graves",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Graves_450x600-1.jpg",
+      "research": "Plasma applications in nanotechnology",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "tomg",
+      "email": "tomg@cs.princeton.edu",
+      "name": "Tom Griffiths",
+      "first": "Tom",
+      "last": "Griffiths",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/tomg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/griffiths_portrait_1-1-1568x2090.jpg",
+      "office": "Computer Science 405",
+      "phone": "609-258-",
+      "research": "Machine learning; developing mathematical models of higher level cognition and understanding the formal principles that underlie people?s ability to solve everyday computational problems.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science",
+        "Psychology"
+      ]
+    },
+    {
+      "netid": "aartig",
+      "email": "aartig@princeton.edu",
+      "name": "Aarti Gupta",
+      "first": "Aarti",
+      "last": "Gupta",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/aartig",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Aarti20Gupta_DKC_2017_450x600-1-1568x2090.jpg",
+      "office": "Computer Science Building 220",
+      "phone": "609-258-8017",
+      "research": "Formal verification of systems, model checking, program analysis, and automatic decision procedures for logics. SAT/SMT solvers.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mhaataja",
+      "email": "mhaataja@Princeton.EDU",
+      "name": "Mikko Haataja",
+      "first": "Mikko",
+      "last": "Haataja",
+      "profile-url": "http://mae.princeton.edu/people/faculty/haataja",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Mikko-Hataaja_0-1568x2466.jpeg",
+      "office": "E-Quad D404C",
+      "phone": "609-258-9126",
+      "research": "Theoretical and computational materials science; physics of materials; physical biology; microstructure formation",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "bhanin",
+      "email": "bhanin@princeton.edu",
+      "name": "Boris Hanin",
+      "first": "Boris",
+      "last": "Hanin",
+      "profile-url": "https://hanin.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Hanin202a_450x600-1.jpg",
+      "phone": "609-258-3000",
+      "research": "Deep learning, probability, and spectral asymptotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "kh7265",
+      "email": "kelsey.hatzell@princeton.edu",
+      "name": "Kelsey Hatzell",
+      "first": "Kelsey",
+      "last": "Hatzell",
+      "profile-url": "https://www.kelseyhatzell.com/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kelsey-hatzell-1-1568x2091.png",
+      "office": "Andlinger Center for Energy and the Environment 224",
+      "phone": "609-258-2980",
+      "research": "Batteries and energy storage.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "ehazan",
+      "email": "ehazan@Princeton.EDU",
+      "name": "Elad Hazan",
+      "first": "Elad",
+      "last": "Hazan",
+      "profile-url": "http://www.cs.princeton.edu/people/profile/ehazan",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/elad_450_x_600_2-1-1568x2090.jpg",
+      "office": "Computer Science Building 409",
+      "phone": "609-258-4562",
+      "research": "Design and analysis of algorithms for basic problems in machine learning and optimization.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "fheide",
+      "email": "fheide@princeton.edu",
+      "name": "Felix Heide",
+      "first": "Felix",
+      "last": "Heide",
+      "profile-url": "https://www.cs.princeton.edu/~fheide/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/FelixHeide-062821_0023_preferred_450x600-1.jpg",
+      "office": "Computer Science 410",
+      "phone": "609-258-0419",
+      "research": "Computational imaging and computer vision.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "aahouck",
+      "email": "aahouck@Princeton.EDU",
+      "name": "Andrew Houck",
+      "first": "Andrew",
+      "last": "Houck",
+      "profile-url": "http://ee.princeton.edu/people/faculty/andrew-houck",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/aahouck_1_2-1.jpg",
+      "office": "E-Quad B424",
+      "phone": "609-258-2571",
+      "research": "Quantum computing; non-linear and quantum optics; superconducting microwave electronics; decoherence in quantum systems; transport physics",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "eh3988",
+      "email": "eh3988@princeton.edu",
+      "name": "Emma Hubert",
+      "first": "Emma",
+      "last": "Hubert",
+      "profile-url": "https://sites.google.com/view/emmahubert",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/10/Hubert_450x600.jpg",
+      "office": "Sherrerd Hall 226",
+      "phone": "609-258-8773",
+      "research": "Stochastic control, in particular contract theory, Nash equilibria and mean\u2013field games.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "hultmark",
+      "email": "hultmark@princeton.edu",
+      "name": "Marcus Hultmark",
+      "first": "Marcus",
+      "last": "Hultmark",
+      "profile-url": "http://fluids.princeton.edu",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/hultmark-1d4v1635-450x600_0-1.jpg",
+      "office": "E-Quad D222",
+      "phone": "609-258-5689",
+      "research": "Fluid mechanics; turbulence, its measurement and theory. Aerodynamics of wind turbines; developing and characterization of sensors for measurements of flow parameters related to atmospheric monitoring, climate models, unmanned aerial vehicles, and medical infusion monitoring to improve how treatments are administered.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "jaffe",
+      "email": "jaffe@Princeton.EDU",
+      "name": "Peter Jaffe",
+      "first": "Peter",
+      "last": "Jaffe",
+      "profile-url": "http://pjrg.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Jaffe_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad E411",
+      "phone": "609-258-4653",
+      "research": "Novel mechanisms of ammonium oxidation under iron reducing conditions and its applications to water treatment; optimization of nitrification/denitrification in waste treatment systems; transport and transformation of pollutants in the environment; remediation of contaminated systems; numerical simulation of denitrification in soils as a function of rainfall and soil properties; climate change models; biogeochemically mediated dynamics of trace metals in sediments, wetland soils, and groundwater; biological reduction of uranium in groundwater; long-term stability of the reduced uranium phases; nitrogen processing in urban settings coupled to urban hydrology; effects of carbon dioxide sequestration in deep aquifers on shallow soils due to potential leaks.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "kylej",
+      "email": "kylej@cs.princeton.edu",
+      "name": "Kyle Jamieson",
+      "first": "Kyle",
+      "last": "Jamieson",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/kylej",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kylej_1_2-1.jpg",
+      "office": "Computer Science Building 305",
+      "phone": "609-258-7477",
+      "research": "Networking, Wireless Systems, Internet of Things. Building wirelessly networked systems for the real world that cut across the boundaries of digital communications and networking.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jdj2",
+      "email": "jessejenkins@princeton.edu",
+      "name": "Jesse Jenkins",
+      "first": "Jesse",
+      "last": "Jenkins",
+      "profile-url": "https://mae.princeton.edu/people/faculty/jenkins",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jenkins_9-19_photo_small_file_1-1.jpg",
+      "office": "Andlinger Center for Energy and the Environment 214",
+      "phone": "609-258-1257",
+      "research": "Propulsion and energy sciences",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "jha",
+      "email": "jha@Princeton.EDU",
+      "name": "Niraj Jha",
+      "first": "Niraj",
+      "last": "Jha",
+      "profile-url": "http://ee.princeton.edu/people/faculty/niraj-jha",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jha_450_x_600_1-1.jpg",
+      "office": "E-Quad B220",
+      "phone": "609-258-4754",
+      "research": "Machine learning; Internet of Things; embedded computing; cybersecurity; computer architecture; computer-aided design of integrated circuits and systems; low-power hardware/software design; 3D monolithic IC design.",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "chij",
+      "email": "chij@princeton.edu",
+      "name": "Chi Jin",
+      "first": "Chi",
+      "last": "Jin",
+      "profile-url": "https://ee.princeton.edu/people/chi-jin",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/chi_jin_favorite_450x600_1-1.jpg",
+      "office": "E-Quad C332",
+      "phone": "609-258-3000",
+      "research": "Machine learning, statistics and optimization",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "yju",
+      "email": "yju@Princeton.EDU",
+      "name": "Yiguang Ju",
+      "first": "Yiguang",
+      "last": "Ju",
+      "profile-url": "http://mae.princeton.edu/people/faculty/ju",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ju_9-09_042_600x450_1-1.jpg",
+      "office": "E-Quad D330",
+      "phone": "609-258-5644",
+      "research": "Sustainable energy; propulsion; functional nano-materials",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "kahn",
+      "email": "kahn@princeton.edu",
+      "name": "Antoine Kahn",
+      "first": "Antoine",
+      "last": "Kahn",
+      "profile-url": "http://ee.princeton.edu/people/faculty/antoine-kahn",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kahn_2_1-1.jpg",
+      "office": "E-Quad B420",
+      "phone": "609-258-4642",
+      "research": "Molecular and polymer semiconductors; electronic and chemical properties of interfaces; doping in organic thin films; organic-based devices; hybrid metal halide perovskites.",
+      "rank": "Professor",
+      "affiliations": [
+        "School of Engineering and Applied Science"
+      ]
+    },
+    {
+      "netid": "ak18",
+      "email": "ak18@cs.princeton.edu",
+      "name": "Alan Kaplan",
+      "first": "Alan",
+      "last": "Kaplan",
+      "profile-url": "http://www.cs.princeton.edu/~ak18",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kaplan_450x600_1-1-1568x2091.jpg",
+      "office": "221 Nassau St. 105",
+      "phone": "609-258-1745",
+      "research": "Expertise: Mobile software, middleware and protocols; communication and networking for consumer applications and services, software engineering.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "bwk",
+      "email": "bwk@Princeton.EDU",
+      "name": "Brian Kernighan",
+      "first": "Brian",
+      "last": "Kernighan",
+      "profile-url": "http://www.cs.princeton.edu/~bwk/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/bwk_1_3-1.jpg",
+      "office": "Computer Science Building 311",
+      "phone": "609-258-2089",
+      "research": "AMPL modeling language for mathematical optimization; scripting languages",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "yannis",
+      "email": "yannis@Princeton.EDU",
+      "name": "Yannis Kevrekidis",
+      "first": "Yannis",
+      "last": "Kevrekidis",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/kevrekidis/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/07/kevrekidis.jpeg",
+      "office": "E-Quad A319",
+      "phone": "609-258-2818",
+      "research": "Complex/multi-scale systems modeling and computation; process dynamics and spatiotemporal pattern formation; fuel cell engineering; nonlinear system identification and control",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "zkincaid",
+      "email": "zkincaid@cs.princeton.edu",
+      "name": "Zachary Kincaid",
+      "first": "Zachary",
+      "last": "Kincaid",
+      "profile-url": "http://www.cs.princeton.edu/~zkincaid/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kincaid-img_0843_450x600_1-1.jpg",
+      "office": "Computer Science 219",
+      "phone": "609-258-5330",
+      "research": "Programming languages, formal methods, concurrency, compilers, logic. Developing automated reasoning techniques to facilitate the construction of high-performance, dependable software.  Static analysis and program verification, with an emphasis on multi-threaded programs.  Theorem proving and program synthesis.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "jk53",
+      "email": "jason.klusowski@princeton.edu",
+      "name": "Jason Klusowski",
+      "first": "Jason",
+      "last": "Klusowski",
+      "profile-url": "https://orfe.princeton.edu/people/faculty/jk53",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2019/10/Klusowski_450x600-1568x2091.jpg",
+      "phone": "609-258-3000",
+      "research": "Machine Learning, Statistics",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "bkoel",
+      "email": "bkoel@Princeton.EDU",
+      "name": "Bruce E. Koel",
+      "first": "Bruce E.",
+      "last": "Koel",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/koel/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/koel_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad A311",
+      "phone": "609-258-4524",
+      "research": "Surface processes and probes. Plasma-materials interactions: liquid metals, nanomaterials synthesis, plasma-enhanced catalysis; photoelectrocatalysis: composite and doped oxides for water splitting, carbon dioxide reduction; electrochemistry: Zn Br cells, alloy electrodes; heterogeneous catalysis: hydrocarbon conversion, olefin metathesis, hydrodeoxygenation of bio-oils, bimetallic Pt alloys; environmental remediation: sequestration by iron nanoparticles; electron and ion spectroscopy; scanning probe microscopy, STM, AFM.",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "gkol",
+      "email": "gkol@princeton.edu",
+      "name": "Gillat Kol",
+      "first": "Gillat",
+      "last": "Kol",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/gkol",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kol-img_1141-600x450_1-1.jpg",
+      "office": "194 Nassau St. 230",
+      "phone": "609-258-5386",
+      "research": "Theoretical aspects of computation; application of information theory to theoretical computer science, especially to computational complexity; interactive compression and coding.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "ekolemen",
+      "email": "ekolemen@Princeton.EDU",
+      "name": "Egemen Kolemen",
+      "first": "Egemen",
+      "last": "Kolemen",
+      "profile-url": "http://mae.princeton.edu/people/faculty/kolemen",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ekolemen_1_2-1.jpg",
+      "office": "B261 PPPL MS34 C-Site",
+      "phone": "609-258-",
+      "research": "Application of dynamics and control theory to experimental plasma physics, primarily to address the challenges of fusion reactor design. Designing and implementing novel control techniques for fusion reactors. Reduction of heat flux to fusion reactor vessels using advanced magnetic divertor configuration, detachment, and radiation control; and disruption avoidance against instabilities.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "alaink",
+      "email": "alaink@Princeton.EDU",
+      "name": "Alain Kornhauser",
+      "first": "Alain",
+      "last": "Kornhauser",
+      "profile-url": "http://www.princeton.edu/~alaink/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/kornhauser8106_600x450_1-1.jpg",
+      "office": "Sherrerd Hall 229",
+      "phone": "609-258-4657",
+      "research": "Dynamic resource management; traveler information and decision support; automated vehicle control systems; traveler information systems; personal rapid transit",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "akosmrlj",
+      "email": "andrej@princeton.edu",
+      "name": "Andrej Kosmrlj",
+      "first": "Andrej",
+      "last": "Kosmrlj",
+      "profile-url": "http://www.princeton.edu/~akosmrlj/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/andrejkosmrlj_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad D414 D-Wing",
+      "phone": "609-258-8613",
+      "research": "Design and mechanics of metamaterials with unusual material properties; Statistical mechanics of microscopic structures in the presence of thermal fluctuations and disorder, with potential applications for flexible electronics, sensitive force sensors or micro-actuators; Mechanics in morphogenesis during embryo development.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "kulkarni",
+      "email": "kulkarni@Princeton.EDU",
+      "name": "Sanjeev Kulkarni",
+      "first": "Sanjeev",
+      "last": "Kulkarni",
+      "profile-url": "http://ee.princeton.edu/people/faculty/sanjeev-r-kulkarni",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sanjeev-kulkarni_1-1.jpg",
+      "office": "E-Quad B310",
+      "phone": "609-258-6727",
+      "research": "Statistical pattern recognition, machine learning; applied probability, nonparametric statistics; information theory, communications; wireless networks, sensor networks; signal, image, and video processing; adaptive systems, hybrid systems, control and econometrics and finance",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "kung",
+      "email": "kung@Princeton.EDU",
+      "name": "Sun-Yuan Kung",
+      "first": "Sun-Yuan",
+      "last": "Kung",
+      "profile-url": "http://ee.princeton.edu/people/faculty/sun-yuan-kung",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Sun-Yuan-Kung_450x600-1568x2091.jpg",
+      "office": "E-Quad B230",
+      "phone": "609-258-3780",
+      "research": "VLSI signal processing; neural networks; digital signal, image, and video processing; multimedia information systems",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "cklaw",
+      "email": "cklaw@Princeton.EDU",
+      "name": "Chung Law",
+      "first": "Chung",
+      "last": "Law",
+      "profile-url": "http://mae.princeton.edu/people/faculty/law",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/chung_law_1-1.jpg",
+      "office": "E-Quad D323C",
+      "phone": "609-258-5271",
+      "research": "Combustion, with applications in propulsion, energy and environmental issues; chemical kinetics; fluid mechanics; heat and mass transfer; high-temperature gas dynamics, and alternative fuels.",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "jasondl",
+      "email": "jasonlee@princeton.edu",
+      "name": "Jason D. Lee",
+      "first": "Jason D.",
+      "last": "Lee",
+      "profile-url": "https://ee.princeton.edu/people/jason-d-lee",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jason_lee_450x600_1-1.jpg",
+      "office": "E-Quad B308",
+      "phone": "609-258-8396",
+      "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "naomi",
+      "email": "naomi@Princeton.EDU",
+      "name": "Naomi Ehrich Leonard",
+      "first": "Naomi Ehrich",
+      "last": "Leonard",
+      "profile-url": "https://naomi.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/NLeonard_450x600-1.jpg",
+      "office": "E-Quad D234",
+      "phone": "609-258-5129",
+      "research": "Control theory, involves designing and analyzing methods for influencing the behavior of complex, dynamical systems using feedback",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "aalevy",
+      "email": "aalevy@cs.princeton.edu",
+      "name": "Amit Levy",
+      "first": "Amit",
+      "last": "Levy",
+      "profile-url": "https://amitlevy.com/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/amit_levy_450x600_1-1.jpg",
+      "office": "Computer Science 307",
+      "phone": "609-258-8701",
+      "research": "Security & privacy; systems.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "dl9",
+      "email": "dl9@cs.princeton.edu",
+      "name": "Daniel Leyzberg",
+      "first": "Daniel",
+      "last": "Leyzberg",
+      "profile-url": "http://www.cs.princeton.edu/~dl9",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/leyzberg_450x600_1-1-1568x2090.jpg",
+      "office": "Computer Science 034 Corwin Hall",
+      "phone": "609-258-9300",
+      "research": "Expertise: Computer science education, human-computer and human-robot interaction.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "li",
+      "email": "li@cs.Princeton.EDU",
+      "name": "Kai Li",
+      "first": "Kai",
+      "last": "Li",
+      "profile-url": "http://www.cs.princeton.edu/~li/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/li_kai-2347_1-1.jpg",
+      "office": "Computer Science Building 321",
+      "phone": "609-258-4637",
+      "research": "Computer architecture; operating systems; parallel systems; networking",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "xiaoyan",
+      "email": "xiaoyan@cs.princeton.edu",
+      "name": "Xiaoyan Li",
+      "first": "Xiaoyan",
+      "last": "Li",
+      "profile-url": "http://www.cs.princeton.edu/~xiaoyan",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/li_450x600_1-1-1568x2092.jpg",
+      "office": "221 Nassau St. 104",
+      "phone": "609-258-7844",
+      "research": "Expertise: Question answering, information retrieval, data mining and other applications of machine learning techniques.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "nlin",
+      "email": "nlin@princeton.edu",
+      "name": "Ning Lin",
+      "first": "Ning",
+      "last": "Lin",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=nlin",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/20170713_linn_dkc_0008_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad E328 E-Wing",
+      "phone": "609-258-0266",
+      "research": "Natural hazards and risk assessment, stochastic modeling, wind engineering, coastal engineering, climate change impact and adaptation, built environment and sustainability.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "ajlink",
+      "email": "ajlink@Princeton.EDU",
+      "name": "A. James Link",
+      "first": "A. James",
+      "last": "Link",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/link/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/link_450x600_1-1.jpg",
+      "office": "Hoyt 207",
+      "phone": "609-258-7191",
+      "research": "Protein engineering, peptides, natural products, antibiotics, microbiology, genomics, and supramolecular chemistry",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "mlittman",
+      "email": "mlittman@Princeton.EDU",
+      "name": "Michael Littman",
+      "first": "Michael",
+      "last": "Littman",
+      "profile-url": "http://www.princeton.edu/~mlittman/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/littman-4x3_1-1.jpg",
+      "office": "E-Quad D202A",
+      "phone": "609-258-5198",
+      "research": "Automatic controls; tunable laser design; bio-mimic robotics; the terrestrial planet finder; design and control of a high contrast coronagraph; history of engineering",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "wlloyd",
+      "email": "wlloyd@princeton.edu",
+      "name": "Wyatt Lloyd",
+      "first": "Wyatt",
+      "last": "Lloyd",
+      "profile-url": "http://www.cs.princeton.edu/~wlloyd/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wyatt_lloyd_450x600_1-1.jpg",
+      "office": "Computer Science 323",
+      "phone": "609-258-5030",
+      "research": "Theory, design, implementation, evaluation, and deployment of large-scale distributed systems. Big data, storage, consistency, geo-replication, consensus, concurrency control, and fault tolerance.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "lloo",
+      "email": "lloo@Princeton.EDU",
+      "name": "Lynn Loo",
+      "first": "Lynn",
+      "last": "Loo",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/loo/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/loo_6025_600x450_1-1.jpg",
+      "office": "Andlinger Center for Energy and the Environment 118",
+      "phone": "609-258-9091",
+      "research": "Organic and polymer electronics, including transistors, solar cells, sensors and energy efficient smart windows; hybrid organic-inorganic perovskites; patterning; processing-structure-function relationships of complex materials.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "lumbroso",
+      "email": "lumbroso@cs.princeton.edu",
+      "name": "J\u00e9r\u00e9mie Lumbroso",
+      "first": "J\u00e9r\u00e9mie",
+      "last": "Lumbroso",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/lumbroso",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Lumbroso_450x600-1-1568x2091.jpg",
+      "office": "Corwin Hall 035",
+      "phone": "609-258-5379",
+      "research": "Expertise: Probabilistic algorithms, data streaming, data structures, analysis of algorithms, analytic combinatorics.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "lyon",
+      "email": "lyon@Princeton.EDU",
+      "name": "Stephen Lyon",
+      "first": "Stephen",
+      "last": "Lyon",
+      "profile-url": "http://ee.princeton.edu/people/faculty/stephen-lyon",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/StephenALyon-061521_0003_450x600-1.jpg",
+      "office": "E-Quad B428",
+      "phone": "609-258-4635",
+      "research": "Optical processes in semiconductors; ultrafast processes and nonequilibrium transport; semiconductor nanostructures; quantum computing",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "am43",
+      "email": "ani.majumdar@princeton.edu",
+      "name": "Anirudha Majumdar",
+      "first": "Anirudha",
+      "last": "Majumdar",
+      "profile-url": "https://irom-lab.princeton.edu/majumdar/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ani_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad D202B",
+      "phone": "609-258-0854",
+      "research": "Controlling highly agile robotic systems such as unmanned aerial vehicles, with formal guarantees on their safety and performance.",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "sharad",
+      "email": "sharad@Princeton.EDU",
+      "name": "Sharad Malik",
+      "first": "Sharad",
+      "last": "Malik",
+      "profile-url": "http://ee.princeton.edu/people/faculty/sharad-malik",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/malik_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad B224",
+      "phone": "609-258-4625",
+      "research": "Design automation for digital systems; design tools for embedded systems; hardware-software integration; digital circuit theory; synthesis and verification of digital systems",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "cm49",
+      "email": "maravelias@princeton.edu",
+      "name": "Christos Maravelias",
+      "first": "Christos",
+      "last": "Maravelias",
+      "profile-url": "https://cbe.princeton.edu/people/christos-maravelias",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/maravelias_christos-1.jpg",
+      "office": "Andlinger Center for Energy and the Environment 226",
+      "phone": "609-258-1258",
+      "research": "Process systems engineering and energy systems synthesis and analysis.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "gigi",
+      "email": "gigi@phantom2.Princeton.EDU",
+      "name": "Luigi Martinelli",
+      "first": "Luigi",
+      "last": "Martinelli",
+      "profile-url": "http://mae.princeton.edu/people/faculty/martinelli",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/martinel_1_1-1.jpg",
+      "office": "E-Quad D302C",
+      "phone": "609-258-6652",
+      "research": "Simulation of viscous flow past complex configurations with application to aircraft and ship design",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "mrm",
+      "email": "mrm@Princeton.EDU",
+      "name": "Margaret Martonosi",
+      "first": "Margaret",
+      "last": "Martonosi",
+      "profile-url": "http://www.princeton.edu/~mrm/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/martonosi-img_9805_600x450_1-1.jpg",
+      "office": "Computer Science 208",
+      "phone": "609-258-1912",
+      "research": "Computer architectures and the hardware/software interface, particularly power-efficient systems, hardware-software interface issues, and most recently, power-efficient wireless networks.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "wmassey",
+      "email": "wmassey@Princeton.EDU",
+      "name": "William Massey",
+      "first": "William",
+      "last": "Massey",
+      "profile-url": "http://www.princeton.edu/~wmassey/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wmassey_1_1-1-1568x2195.jpg",
+      "office": "Sherrerd Hall 206",
+      "phone": "609-258-7384",
+      "research": "Stochastic models and queuing theory; performance and pricing models for telecommunications systems; symptotic analysis and stochastic bounds for queueing networks; theories of queues with time-varying rates, stochastic networks",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "mauzeral",
+      "email": "mauzeral@Princeton.EDU",
+      "name": "Denise Mauzerall",
+      "first": "Denise",
+      "last": "Mauzerall",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=mauzeral",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/mauz_450x600_1-1-1568x2091.jpg",
+      "office": "Robertson Hall 445",
+      "phone": "609-258-2498",
+      "research": "Using science to inform far-sighted air quality policy that considers impacts of air pollution on health, agriculture and climate change. Investigations include: Climatic benefit of black carbon (soot) mitigation; global crop yield reductions due to ozone exposure; inter-continental transport of fine aerosols; impact of emissions of aerosols from China on global air quality, mortality and radiative forcing.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "reedmm",
+      "email": "reedmaxwell@princeton.edu",
+      "name": "Reed Maxwell",
+      "first": "Reed",
+      "last": "Maxwell",
+      "profile-url": "http://maxwell.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Maxwell_Reed_Retina2_0-1.jpg",
+      "office": "E-Quad E209A",
+      "phone": "609-258-3000",
+      "research": "Hydrology, understanding perturbations to the hydrologic cycle though observations and numerical models, reactive transport, scaling in watersheds, coupled simulation and high-performance computing.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "jrmayer",
+      "email": "jonathan.mayer@princeton.edu",
+      "name": "Jonathan Mayer",
+      "first": "Jonathan",
+      "last": "Mayer",
+      "profile-url": "https://jonathanmayer.org/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/mayer2_450x600_1-1-1568x2091.jpg",
+      "office": "Sherrerd Hall 307",
+      "phone": "(202) 684-6074",
+      "research": "The intersection of information technology, public policy, and law.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science",
+        "Public Affairs"
+      ]
+    },
+    {
+      "netid": "fmeggers",
+      "email": "fmeggers@princeton.edu",
+      "name": "Forrest Meggers",
+      "first": "Forrest",
+      "last": "Meggers",
+      "profile-url": "https://soa.princeton.edu/content/forrest-meggers",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/fmeggers_1_2-1.jpg",
+      "office": "Architecture Building S03",
+      "phone": "609-258-7831",
+      "research": "Building systems design and integration; sustainable systems; renewable energy; optimization of energy systems; geothermal; seasonal energy storage; low temp hybrid solar; building materials; energy systems modeling; exergy analysis; thermodynamics and heat transfer; and heat pumps",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Architecture"
+      ]
+    },
+    {
+      "netid": "jm41",
+      "email": "j.mikhailova@princeton.edu",
+      "name": "Julia Mikhailova",
+      "first": "Julia",
+      "last": "Mikhailova",
+      "profile-url": "http://mae.princeton.edu/people/faculty/Mikhailova",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Julia_M_450x600.png",
+      "office": "E-Quad D420 D-Wing",
+      "phone": "609-258-7154",
+      "research": "Attosecond science: high-\u00ac\u00aeharmonic and attosecond?pulse generation and application. High-\u00ac\u00aefield physics: high-\u00ac\u00aepower lasers, relativistic laser?plasma interaction, synchrotron\u00ac\u00ae?type intense x?ray radiation from solids, laser\u00ac\u00ae?driven particle acceleration. Ultrafast and nonlinear optics: few-\u00ac\u00aecycle optical pulse generation, optical parametric chirped pulse amplification, femtosecond laser filamentation, nonlinear fiber optics. Quantum optics: entanglement of quantum states, biphoton states in spontaneous parametric light scattering.",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "pmittal",
+      "email": "pmittal@princeton.edu",
+      "name": "Prateek Mittal",
+      "first": "Prateek",
+      "last": "Mittal",
+      "profile-url": "http://ee.princeton.edu/people/faculty/prateek-mittal",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/mittal_prateek_1_fw-600x450_1-1.jpg",
+      "office": "E-Quad B326",
+      "phone": "609-258-0814",
+      "research": "Secure and privacy-preserving communication systems, including domains of privacy-enhancing technologies, trustworthy social systems, and Internet/network security. Research draws on techniques from computer networks and distributed systems, large-scale machine learning, complex networks/network science and applied cryptography.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "mmoini",
+      "email": "reza.moini@princeton.edu",
+      "name": "Reza Moini",
+      "first": "Reza",
+      "last": "Moini",
+      "profile-url": "https://cee.princeton.edu/people/reza-moini",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/reza_moini_highres_450x600-1.jpg",
+      "office": "E-Quad E324",
+      "phone": "609-258-5246",
+      "research": "Bio-inspired design and development of architected materials using additive manufacturing processes and automated robotic technologies for civil and energy infrastructure applications.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "andresmh",
+      "email": "andresmh@cs.princeton.edu",
+      "name": "Andr\u00e9s Monroy-Hern\u00e1ndez",
+      "first": "Andr\u00e9s",
+      "last": "Monroy-Hern\u00e1ndez",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/andresmh",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Andres450x600-1.jpg",
+      "office": "Computer Science 405",
+      "phone": "609-258-5966",
+      "research": "Social computing systems; future of work",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "cmoretti",
+      "email": "cmoretti@cs.princeton.edu",
+      "name": "Christopher Moretti",
+      "first": "Christopher",
+      "last": "Moretti",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/cmoretti",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/moretti_564x317_1-1.jpg",
+      "office": "Corwin Hall 36",
+      "phone": "609-258-5388",
+      "research": "Expertise: Distributed systems, computer science education.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "muellerm",
+      "email": "muellerm@princeton.edu",
+      "name": "Michael Mueller",
+      "first": "Michael",
+      "last": "Mueller",
+      "profile-url": "http://mae.princeton.edu/people/faculty/mueller",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/muellerm_1_1-1-1568x2488.jpg",
+      "office": "E-Quad D332",
+      "phone": "609-258-5191",
+      "research": "High-fidelity numerical modeling of turbulent combustion. Applications to improving efficiency and performance, minimizing emissions, and reducing cost in reciprogating engines, aircraft engines, and stationary gas turbines.",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "mulvey",
+      "email": "mulvey@Princeton.EDU",
+      "name": "John Mulvey",
+      "first": "John",
+      "last": "Mulvey",
+      "profile-url": "http://www.princeton.edu/~mulvey/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/mulvey_4-1.jpg",
+      "office": "Sherrerd Hall 329",
+      "phone": "609-258-5423",
+      "research": "Financial management and risk analysis; large-scale optimization models and algorithms; advanced portfolio models for long-term investors (pension plans, family trusts, university endowments) and multi-strategy hedge funds",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "rn1627",
+      "email": "rn1627@princeton.edu",
+      "name": "Radhika Nagpal",
+      "first": "Radhika",
+      "last": "Nagpal",
+      "profile-url": "https://mae.princeton.edu/people/faculty/ragpal",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/01/Nagpal_450x600-1-1568x2091.jpg",
+      "office": "Engineering Quadrangle F316",
+      "phone": "609-258-2898",
+      "research": "Control, robotics and dynamical systems.",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "soohyunl",
+      "email": "soohyunl@cs.princeton.edu",
+      "name": "Soohyun Nam Liao",
+      "first": "Soohyun Nam",
+      "last": "Liao",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/soohyunl",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/liao_450x600-1.jpg",
+      "phone": "609-258-9248",
+      "research": "Expertise: Computer science education",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "karthikn",
+      "email": "karthikn@cs.princeton.edu",
+      "name": "Karthik Narasimhan",
+      "first": "Karthik",
+      "last": "Narasimhan",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/karthikn",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/narasimhan_450x600_1-1.jpg",
+      "office": "Computer Science 422",
+      "phone": "609-258-8702",
+      "research": "Machine learning, natural language processing.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "arvindn",
+      "email": "arvindn@princeton.edu",
+      "name": "Arvind Narayanan",
+      "first": "Arvind",
+      "last": "Narayanan",
+      "profile-url": "http://www.cs.princeton.edu/people/profile/arvindn",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/narayanan2_450x600_1-1-1568x2091.jpg",
+      "office": "Sherrerd Hall 308",
+      "phone": "609-258-9302",
+      "research": "Privacy, security, tech policy, cryptography, social networks",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "celesten",
+      "email": "celesten@Princeton.EDU",
+      "name": "Celeste Nelson",
+      "first": "Celeste",
+      "last": "Nelson",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/nelson/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/nelson-celeste_1-450x600_1-1.jpg",
+      "office": "Hoyt Laboratory 303",
+      "phone": "609-258-8851",
+      "research": "Mammalian tissue morphogenesis/morphodynamics; microfabrication/bioMEMS for tissue engineering; cell adhesion and mechanics",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "ravian",
+      "email": "rnetravali@princeton.edu",
+      "name": "Ravi Netravali",
+      "first": "Ravi",
+      "last": "Netravali",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/ravian",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/netravali_headshot_450x600-1.jpg",
+      "office": "Computer Science 322",
+      "phone": "609-258-3000",
+      "research": "Systems, networking, distributed systems",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "dan",
+      "email": "dan@Princeton.EDU",
+      "name": "Daniel Nosenchuck",
+      "first": "Daniel",
+      "last": "Nosenchuck",
+      "profile-url": "http://mae.princeton.edu/people/faculty/nosenchuck",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/dan_1_2-1.jpg",
+      "office": "E-Quad D302B",
+      "phone": "609-258-5136",
+      "research": "Complex fluid flows; supercomputer architecture; rapid design and manufacture",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "azp",
+      "email": "azp@Princeton.EDU",
+      "name": "Athanassios Panagiotopoulos",
+      "first": "Athanassios",
+      "last": "Panagiotopoulos",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/panagiotopoulos/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/panagiotopoulos_12x8_450x600_1-1.jpg",
+      "office": "E-Quad A317",
+      "phone": "609-258-4591",
+      "research": "Molecular simulation of fluids, materials and biological systems; Thermodynamic analysis of processes; Ionic liquids and their applications; Computational Material Science",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "gp1863",
+      "email": "gpaulino@princeton.edu",
+      "name": "Glaucio Paulino",
+      "first": "Glaucio",
+      "last": "Paulino",
+      "profile-url": "https://cee.princeton.edu/people/glaucio-h-paulino",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/12/Paulino_450x600.jpg",
+      "office": "Engineering Quadrangle E322",
+      "phone": "609-258-8308",
+      "research": "Computational mechanics, engineering mechanics and topology optimization.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering",
+        "Princeton Institute for the Science and Technology of Materials"
+      ]
+    },
+    {
+      "netid": "cap",
+      "email": "cap@Princeton.EDU",
+      "name": "Catherine Peters",
+      "first": "Catherine",
+      "last": "Peters",
+      "profile-url": "http://www.princeton.edu/~cap/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/peters_smaller_450x600_1-1.jpg",
+      "office": "E-Quad E-417",
+      "phone": "609-258-5645",
+      "research": "Environmental chemistry and environmental risk assessment; reactions kinetics; reaction rates for a variety of environmental systems; geochemical reactions important for storage of CO2 in deep saline aquifers; time-scales operative for CO2 storage; contamination of water and soils with organic pollutants; non-aqueous phase liquids (NAPLs) containing polycyclic aromatic hydrocarbons",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "ipetras",
+      "email": "ipetras@cs.princeton.edu",
+      "name": "Iasonas Petras",
+      "first": "Iasonas",
+      "last": "Petras",
+      "profile-url": "http://www.cs.princeton.edu/~ipetras",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/petras_450x600_1-1-1568x2091.jpg",
+      "office": "Corwin Hall 33",
+      "phone": "609-258-1794",
+      "research": "Expertise: Quantum computation, information-based complexity.",
+      "rank": "Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "poor",
+      "email": "poor@Princeton.EDU",
+      "name": "H. Vincent Poor",
+      "first": "H. Vincent",
+      "last": "Poor",
+      "profile-url": "http://ee.princeton.edu/people/faculty/h-vincent-poor",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/vince_450x600_2-1.jpg",
+      "office": "E-Quad B330",
+      "phone": "609-258-1816",
+      "research": "Information theory; signal processing; wireless networks; energy systems; social networks",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "aporpora",
+      "email": "aporpora@princeton.edu",
+      "name": "Amilcare Porporato",
+      "first": "Amilcare",
+      "last": "Porporato",
+      "profile-url": "https://www.princeton.edu/cee/people/display_person/?netid=aporpora",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/porporato_450x600_3_1-1.jpg",
+      "office": "E-Quad E407",
+      "phone": "609-258-2287",
+      "research": "Nonlinear and stochastic dynamical systems, hydrometeorology and soil-atmosphere interaction, soil moisture and plant dynamics, soil biogeochemistry, and ecohydrology.",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "rpriestl",
+      "email": "rpriestl@princeton.edu",
+      "name": "Rodney Priestley",
+      "first": "Rodney",
+      "last": "Priestley",
+      "profile-url": "https://www.princeton.edu/cbe/people/faculty/priestley/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/priestley_450x600_0_1-1.jpg",
+      "office": "E-Quad A417",
+      "phone": "609-258-5271",
+      "research": "Materials synthesis, processing, structure and properties. The physics of polymeric materials and the development of novel polymeric systems as responsive and self healing materials and membranes.",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "pritykin",
+      "email": "pritykin@princeton.edu",
+      "name": "Yuri Pritykin",
+      "first": "Yuri",
+      "last": "Pritykin",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/pritykin",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/Pritykin-2020-12-crop_450x600-1.jpg",
+      "office": "Carl Icahn Library 245",
+      "phone": "609-258-4522",
+      "research": "Using applied statistics, machine learning, and efficient algorithms to address fundamental problems in biology and medicine by integrative analysis of multi-dimensional data.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "prucnal",
+      "email": "prucnal@Princeton.EDU",
+      "name": "Paul Prucnal",
+      "first": "Paul",
+      "last": "Prucnal",
+      "profile-url": "http://ee.princeton.edu/people/faculty/paul-prucnal",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/prucnal_3413_dkc-450x600_0_0-1.jpg",
+      "office": "E-Quad B314",
+      "phone": "609-258-5549",
+      "research": "Photonic switching; fiber-optic networks; optical interconnects",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "prudhomm",
+      "email": "prudhomm@Princeton.EDU",
+      "name": "Robert Prud\u2019homme",
+      "first": "Robert",
+      "last": "Prud\u2019homme",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/prudhomme/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/prudhomme_450x600_1-1.jpg",
+      "office": "E-Quad A301",
+      "phone": "609-258-4577",
+      "research": "Flow in porous media; micro and nanofluidic phenomena; rheology; colloidal dispersions; polymer engineering",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "mracz",
+      "email": "mracz@princeton.edu",
+      "name": "Miklos Racz",
+      "first": "Miklos",
+      "last": "Racz",
+      "profile-url": "http://mracz.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/racz_2_1-1-1568x2091.jpg",
+      "office": "Sherrerd Hall 204",
+      "phone": "609-258-8281",
+      "research": "Statistical inference problems in complex systems, in particular on random graphs and in genomics; applied probability, combinatorial statistics, information theory, control theory, interacting particle systems, and voting.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "ramadge",
+      "email": "ramadge@Princeton.EDU",
+      "name": "Peter Ramadge",
+      "first": "Peter",
+      "last": "Ramadge",
+      "profile-url": "http://ee.princeton.edu/people/faculty/peter-j-ramadge",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ramadge-p_450x600_1-1.jpg",
+      "office": "E-Quad B212",
+      "phone": "609-258-4645",
+      "research": "Video and image processing; adaptive systems; adaptive signal processing; adaptive control; discrete-event systems, optimization of queueing systems; video analysis, annotation and search",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "ar45",
+      "email": "anu.ramaswami@princeton.edu",
+      "name": "Anu Ramaswami",
+      "first": "Anu",
+      "last": "Ramaswami",
+      "profile-url": "https://cee.princeton.edu/people/anu-ramaswami",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ramaswami_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad E209A",
+      "phone": "303-523-8130",
+      "research": "Sustainable infrastructure design, cities, sustainability science, urban systems science, food-energy-water nexus, environmental modeling, science-policy linkages, India",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "brand",
+      "email": "brand@Princeton.EDU",
+      "name": "Barry Rand",
+      "first": "Barry",
+      "last": "Rand",
+      "profile-url": "http://ee.princeton.edu/people/faculty/barry-p-rand",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rand-b_450x600_1-1.jpg",
+      "office": "E-Quad B414",
+      "phone": "609-258-7692",
+      "research": "Understanding and leveraging the electronic and optical properties of thin film materials, particularly semiconductors, for use in emerging applications such as solar cells, light emitting devices, and transistors. Interdisciplinary research at the intersection of electrical engineering, materials science, physics, and chemistry.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment"
+      ]
+    },
+    {
+      "netid": "braphael",
+      "email": "braphael@cs.princeton.edu",
+      "name": "Ben Raphael",
+      "first": "Ben",
+      "last": "Raphael",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/braphael",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ben-raphael_1-1.jpg",
+      "office": "Computer Science 309",
+      "phone": "609-258-6314",
+      "research": "Developing and applying computational and mathematical methods to address biological questions at the molecular and cellular level.  Human and cancer genomics, including algorithmic approaches to identify and interpret genomic alterations in genomes, reconstruct tumor evolution, and discover novel therapeutic interventions. Comparative genomics, particularly analysis of genome rearrangements in evolution.  Algorithms for analysis of data from high-throughput genomics and proteomics technologies.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "ranr",
+      "email": "ranr@cs.princeton.edu",
+      "name": "Ran  Raz",
+      "first": "Ran",
+      "last": "Raz",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/ranr",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/raz_ran-450x600_1-1.jpg",
+      "office": "194 Nassau St. 240",
+      "phone": "609-258-2086",
+      "research": "Complexity theory, with emphasis on proving lower bounds for computational models: Boolean and arithmetic circuit complexity, communication complexity, interactive proofs and probabilistically checkable proofs, randomness and derandomization, time-space lower bounds for learning.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "er5999",
+      "email": "elre@princeton.edu",
+      "name": "Elizaveta Rebrova",
+      "first": "Elizaveta",
+      "last": "Rebrova",
+      "profile-url": "mailto:elre@princeton.edu",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/10/Rebroza_450x600.jpg",
+      "office": "Sherrerd Hall 324",
+      "phone": "609-258-7383",
+      "research": "High-dimensional probability.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "register",
+      "email": "register@Princeton.EDU",
+      "name": "Richard A. Register",
+      "first": "Richard A.",
+      "last": "Register",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/register/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/register_450_x_600_1-1.jpg",
+      "office": "E-Quad A423",
+      "phone": "609-258-4691",
+      "research": "Materials design: creation of new materials for specific function; polymer chemistry, physics, and engineering; nanoscience and nanotechnology; polymer thin films and membranes; block copolymers, polymer blends and composites, semicrystalline polymers, and ionomers.",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "zren",
+      "email": "zjren@exchange.princeton.edu",
+      "name": "Zhiyong \"Jason\" Ren",
+      "first": "Zhiyong \"Jason\"",
+      "last": "Ren",
+      "profile-url": "https://www.princeton.edu/cee/people/display_person/?netid=zjren",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ren2_450x600_1-1-1568x2091.jpg",
+      "office": "Andlinger Center for Energy and the Environment 213",
+      "phone": "609-258-4899",
+      "research": "Water-energy nexus and energy and resource recovery during waste treatment processes.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "jrex",
+      "email": "jrex@cs.princeton.edu",
+      "name": "Jennifer Rexford",
+      "first": "Jennifer",
+      "last": "Rexford",
+      "profile-url": "http://www.cs.princeton.edu/~jrex/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rexford_img_3529-450x600_1-1.jpg",
+      "office": "Computer Science Building 222",
+      "phone": "609-258-5182",
+      "research": "Communication networks; network management; protocol design; internet measurement",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "arod",
+      "email": "arod@princeton.edu",
+      "name": "Alejandro Rodriguez",
+      "first": "Alejandro",
+      "last": "Rodriguez",
+      "profile-url": "http://ee.princeton.edu/people/faculty/alejandro-rodriguez",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rodriguez-a_450x600_1-1.jpg",
+      "office": "E-Quad B318 B-Wing",
+      "phone": "609-258-8962",
+      "research": "Application and development of analytical and computational methods for studying emerging, fundamental, and practical problems at the intersection of quantum and classical nanophotonics. Control and design of thermal emitters and absorbers, modeling fluctuation-induced electromagnetic phenomena in complex nanostructures and design of low-power, wavelength-scale nonlinear devices.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "cwrowley",
+      "email": "cwrowley@Princeton.EDU",
+      "name": "Clarence Rowley",
+      "first": "Clarence",
+      "last": "Rowley",
+      "profile-url": "http://mae.princeton.edu/people/faculty/rowley",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/cwrowley_1_2-1.jpg",
+      "office": "E-Quad D232",
+      "phone": "609-258-7321",
+      "research": "Fluid flows from a dynamical systems point of view; modeling and model reduction for bifurcation analysis and control; numerical methods, both for fluids simulations, and analysis of dynamical systems; applications of geometric methods in fluid mechanics",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "smr",
+      "email": "smr@Princeton.EDU",
+      "name": "Szymon Rusinkiewicz",
+      "first": "Szymon",
+      "last": "Rusinkiewicz",
+      "profile-url": "http://www.cs.princeton.edu/~smr/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rusinkiewicz_450x600_1-1.jpg",
+      "office": "Computer Science Building 406",
+      "phone": "609-258-7479",
+      "research": "Computer graphics; acquisition and analysis of 3D shape and appearance; novel devices and methods for 3D printing; documentation of cultural heritage artifacts and sites; appearance and performance capture for digital humans.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "olgarus",
+      "email": "olgarus@cs.princeton.edu",
+      "name": "Olga Russakovsky",
+      "first": "Olga",
+      "last": "Russakovsky",
+      "profile-url": "http://www.cs.princeton.edu/~olgarus/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/russakovsky_450x600_0-1.jpg",
+      "office": "Computer Science 408",
+      "phone": "609-258-8118",
+      "research": "Computer vision, machine learning and human-computer interaction. Developing artificial intelligent systems that can reason about the vision world.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "msarazen",
+      "email": "msarazen@princeton.edu",
+      "name": "Michele L.  Sarazen",
+      "first": "Michele L.",
+      "last": "Sarazen",
+      "profile-url": "https://cbe.princeton.edu/people/michele-sarazen",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sarazen_450x600_1-1.jpg",
+      "office": "E-Quad A319",
+      "phone": "609-258-8331",
+      "research": "Mechanistic investigations of heterogeneous catalysis via combined synthetic, kinetic, and theoretical techniques; improving efficiencies for conversions of conventional feedstocks to fuels and chemicals and developing renewable alternatives to fuels and chemicals.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "kaushiks",
+      "email": "kaushiks@princeton.edu",
+      "name": "Kaushik Sengupta",
+      "first": "Kaushik",
+      "last": "Sengupta",
+      "profile-url": "http://www.princeton.edu/~kaushiks/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/senguptaimg_3740_4x3_1-1-1568x2090.jpg",
+      "office": "E-Quad B216",
+      "phone": "609-258-5250",
+      "research": "Integrated circuits and chip-scale systems operating across RF-THz-optical frequencies for next generation ultrafast wireless communication, sensing, imaging and low-cost smart biomedical devices for point-of-care applications.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "sseung",
+      "email": "sseung@princeton.edu",
+      "name": "Sebastian Seung",
+      "first": "Sebastian",
+      "last": "Seung",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/sseung",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sseung_3-1.jpg",
+      "office": "Neuroscience Institute 153 PNI",
+      "phone": "609-258-7713",
+      "research": "Neuroscience and connectomics: Developing machine learning and social computing technologies for reconstructing neural circuits from high resolution brain images.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "shayegan",
+      "email": "shayegan@Princeton.EDU",
+      "name": "Mansour Shayegan",
+      "first": "Mansour",
+      "last": "Shayegan",
+      "profile-url": "http://ee.princeton.edu/people/faculty/mansour-shayegan",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/shayegan-m_450x600_1-1.jpg",
+      "office": "E-Quad B408",
+      "phone": "609-258-4639",
+      "research": "Semiconductor physics; electronic properties of low-dimensional semiconductor structures; growth of III-V compounds by molecular beam epitaxy",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "mykhaylo",
+      "email": "mykhaylo@princeton.edu",
+      "name": "Mykhaylo Shkolnikov",
+      "first": "Mykhaylo",
+      "last": "Shkolnikov",
+      "profile-url": "https://www.princeton.edu/~mykhaylo/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/mykhaylo_1_1-1.jpg",
+      "office": "Sherrerd Hall 202",
+      "phone": "609-258-1044",
+      "research": "Applying stochastic analysis to problems in random matrix theory and stochastic portfolio theory. Various topics in probability theory and partial differential equations: interacting particle systems, random growth models, concentration of measure, large deviations, random operators, probabilistic approach to hyperbolic and parabolic partial differential equations.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "stas",
+      "email": "stas@Princeton.EDU",
+      "name": "Stanislav Shvartsman",
+      "first": "Stanislav",
+      "last": "Shvartsman",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/shvartsman/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/shvartsman_p_450x600_1-1.jpg",
+      "office": "E-Quad A421",
+      "phone": "609-258-4694",
+      "research": "Quantitative analysis of pattern formation and morphogenesis in developing tissues; genetics, genomics, and computational studies of signaling pathways; reaction engineering and transport processes",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering",
+        "Lewis Sigler Institute for Integrative Genomics"
+      ]
+    },
+    {
+      "netid": "msingh",
+      "email": "msingh@Princeton.EDU",
+      "name": "Mona Singh",
+      "first": "Mona",
+      "last": "Singh",
+      "profile-url": "http://www.cs.princeton.edu/~mona/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/msingh_1_1-1.jpg",
+      "office": "Computer Science Building 420",
+      "phone": "609-258-2087",
+      "research": "Computational biology and bioinformatics; computational science",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jps",
+      "email": "jps@cs.Princeton.EDU",
+      "name": "Jaswinder Singh",
+      "first": "Jaswinder",
+      "last": "Singh",
+      "profile-url": "http://www.cs.princeton.edu/~jps/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/singh_jp-450x600_1-1.jpg",
+      "office": "Computer Science Building 324",
+      "phone": "609-258-5329",
+      "research": "Parallel computing systems and applications: parallel applications and their implications for software and architectural design; system software and programming environments for multiprocessors. Special interest in applications of computing in computational biology, especially protein structure determination and simulating the immune system",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "sircar",
+      "email": "sircar@Princeton.EDU",
+      "name": "Ronnie Sircar",
+      "first": "Ronnie",
+      "last": "Sircar",
+      "profile-url": "http://www.princeton.edu/~sircar/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sircar_450x600_2_1-1-1568x2091.jpg",
+      "office": "Sherrerd Hall 208",
+      "phone": "609-258-2841",
+      "research": "Security pricing; stochastic models of finance; numerical methods and approximations of solutions; modeling and statistics of volatility; stochastic differential equations and computational methods",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "soner",
+      "email": "soner@princeton.edu",
+      "name": "Mete Soner",
+      "first": "Mete",
+      "last": "Soner",
+      "profile-url": "mailto:soner@princeton.edu",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/soner_450x600_1-1.jpg",
+      "office": "Sherrerd Hall 225",
+      "phone": "609-258-5130",
+      "research": "Nonlinear analysis in partial differential equations, stochastic processes and mathematical finance.",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "bs37",
+      "email": "bstellato@princeton.edu",
+      "name": "Bartolomeo Stellato",
+      "first": "Bartolomeo",
+      "last": "Stellato",
+      "profile-url": "https://stellato.io/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/stellato_450x600-1.jpg",
+      "phone": "609-258-3000",
+      "research": "Data-driven computational tools for mathematical optimization, machine learning and optimal control. Applications in autonomous systems, data science and robotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "hastone",
+      "email": "hastone@Princeton.EDU",
+      "name": "Howard Stone",
+      "first": "Howard",
+      "last": "Stone",
+      "profile-url": "http://mae.princeton.edu/people/faculty/stone",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/HStone_450x600-1568x2090.jpg",
+      "office": "E-Quad D326 D-Wing",
+      "phone": "609-258-9493",
+      "research": "Fundamental problems in fluid motions dominated by viscosity, low Reynolds number flows. Applying a combination of theory, computer simulation and modeling, and experiments, with applications to problems involving effects of surface tension, buoyancy, fluid rotation, and surfactants, and the flow of lipids and motions of suspended particles.",
+      "rank": "Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "sturm",
+      "email": "sturm@Princeton.EDU",
+      "name": "James Sturm",
+      "first": "James",
+      "last": "Sturm",
+      "profile-url": "http://ee.princeton.edu/people/faculty/james-sturm",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sturm-j_450x600_1-1.jpg",
+      "office": "Bowen Hall 320",
+      "phone": "609-258-5610",
+      "research": "Physics and technology of semiconductor devices for both microelectronics and large-area electronics; silicon-based heterostructures and three-dimensional integration; organic semiconductors; flat panel and flexible displays",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "sundar",
+      "email": "sundar@Princeton.EDU",
+      "name": "Sankaran Sundaresan",
+      "first": "Sankaran",
+      "last": "Sundaresan",
+      "profile-url": "http://www.princeton.edu/cbe/people/faculty/sundaresan/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/sundaresan_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad A315",
+      "phone": "609-258-4583",
+      "research": "Granular and multiphase flow; chemical reactor design, stability and dynamics; origin and hierarchy of meso-scale structures in two-phase flows; coarsened equations of motion for two-phase flows; contact stresses in granular assemblies; role of static electrification on gas-particle flows",
+      "rank": "Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "ndounkeu",
+      "email": "ludovic.tangpi@princeton.edu",
+      "name": "Ludovic Tangpi",
+      "first": "Ludovic",
+      "last": "Tangpi",
+      "profile-url": "https://ludovic.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/tangpi_450x600_1-1-1568x2090.jpg",
+      "office": "Sherrerd Hall 203",
+      "phone": "609-258-4558",
+      "research": "Stochastic analysis and mathematical finance.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "ret",
+      "email": "ret@cs.Princeton.EDU",
+      "name": "Robert Tarjan",
+      "first": "Robert",
+      "last": "Tarjan",
+      "profile-url": "http://www.cs.princeton.edu/~ret/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ret_1_1-1.jpg",
+      "office": "194 Nassau St. 308",
+      "phone": "609-258-4797",
+      "research": "Computer science theory; data structures; graph algorithms; combinatorial optimization; computational complexity; computational geometry; parallel algorithms",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "jt11",
+      "email": "jdthompson@princeton.edu",
+      "name": "Jeffrey Thompson",
+      "first": "Jeffrey",
+      "last": "Thompson",
+      "profile-url": "http://www.ee.princeton.edu/people/faculty/jeff-thompson",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jt11_1_1-1.jpg",
+      "office": "E-Quad B328",
+      "phone": "609-258-6124",
+      "research": "Methods to gain control over individual atoms for computing, communications and sensing technology. Using nanophotonic circuits to spatially isolate and address individual or small clusters of rare earth ion dopants in crystalline hosts for use as single photon sources and quantum memories. Developing techniques to laser-cool and trap large arrays of atoms levitated in vacuum.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "ogt",
+      "email": "ogt@Princeton.EDU",
+      "name": "Olga Troyanskaya",
+      "first": "Olga",
+      "last": "Troyanskaya",
+      "profile-url": "http://function.princeton.edu/research.html",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ogt_1_1-1.jpg",
+      "office": "Computer Science Building 320",
+      "phone": "609-258-1749",
+      "research": "Genomic data integration; microarray analysis; gene and protein function prediction; detection and analysis of chromosomal abnormalities; evaluation and validation of computational predictions; algorithms for integration of data from multiple data sources; visualization of biological data; machine learning methods in bioinformatics",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "tureci",
+      "email": "tureci@Princeton.EDU",
+      "name": "Hakan Tureci",
+      "first": "Hakan",
+      "last": "Tureci",
+      "profile-url": "http://ee.princeton.edu/people/faculty/hakan-t%C3%BCreci",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/tureci_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad B312",
+      "phone": "609-258-1993",
+      "research": "Nonlinear/quantum optics in complex media; nano-photonics; condensed matter physics; semiconductor optics; strongly correlated quantum optical systems; quantum/wave chaos; numerical methods for simulating active and passive photonic structures",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "rvan",
+      "email": "rvan@Princeton.EDU",
+      "name": "Ramon van Handel",
+      "first": "Ramon",
+      "last": "van Handel",
+      "profile-url": "http://www.princeton.edu/~rvan/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rvan_1_0-1.jpg",
+      "office": "Sherrerd Hall 227",
+      "phone": "609-258-0973",
+      "research": "Probability theory and its interactions with other fields: Conditional phenomena, high-dimensional probability, and ergodic theory.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "rvdb",
+      "email": "rvdb@Princeton.EDU",
+      "name": "Robert Vanderbei",
+      "first": "Robert",
+      "last": "Vanderbei",
+      "profile-url": "http://www.princeton.edu/~rvdb/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rvdb_1_1-1.jpg",
+      "office": "Sherrerd Hall 209",
+      "phone": "609-258-2345",
+      "research": "Telescope design for searching for extra-solar planets; high-contrast imaging; diffractive optics; robust optimization; fast Fourier optimization; financial portfolio selection; convex optimization; multi-objective optimization; stochastic dominance; stability of Saturn's rings; astrophysics; stable solutions to the n-body problem",
+      "rank": "Professor",
+      "affiliations": [
+        "Operations Research and Financial Engineering"
+      ]
+    },
+    {
+      "netid": "nverma",
+      "email": "nverma@Princeton.EDU",
+      "name": "Naveen Verma",
+      "first": "Naveen",
+      "last": "Verma",
+      "profile-url": "http://ee.princeton.edu/people/faculty/naveen-verma",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/verma_450x600_1-1-1568x2090.jpg",
+      "office": "E-Quad B226",
+      "phone": "609-258-1424",
+      "research": "Analog and digital integrated circuits with an emphasis on developing system platforms for emerging applications, especially where considerable computation and instrumentation is required but energy is severely constrained. Important examples include implantable and wearable biomedical systems and remote sensing and processing network nodes.",
+      "rank": "Professor",
+      "affiliations": [
+        "Keller Center for Innovation in Engineering Education"
+      ]
+    },
+    {
+      "netid": "pv0667",
+      "email": "pramodv@princeton.edu",
+      "name": "Pramod Viswanath",
+      "first": "Pramod",
+      "last": "Viswanath",
+      "profile-url": "https://ece.princeton.edu/people/pramod-viswanath",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/07/pramod.jpeg",
+      "office": "Engineering Quadrangle B204",
+      "research": "First principle understanding and design of blockchains; inventing communication algorithms via deep learning.",
+      "rank": "Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "dpw",
+      "email": "dpw@Princeton.EDU",
+      "name": "David Walker",
+      "first": "David",
+      "last": "Walker",
+      "profile-url": "http://www.cs.princeton.edu/~dpw/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/walker_david-2301-450x600_1-1.jpg",
+      "office": "Computer Science Building 211",
+      "phone": "609-258-7654",
+      "research": "Programming language theory, design, analysis and implementation.",
+      "rank": "Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mengdiw",
+      "email": "mengdiw@princeton.edu",
+      "name": "Mengdi Wang",
+      "first": "Mengdi",
+      "last": "Wang",
+      "profile-url": "https://mwang.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wang01-1.jpeg",
+      "office": "Sherrerd Hall 226",
+      "phone": "609-258-8773",
+      "research": "Decision making and reinforcement learning problems involving uncertainty or hidden information; modeling uncertainty and designing algorithmic approaches that \"learn\" the best decisions as information is revealed. optimization (stochastic, online, and even more), stochastic programming, variational inequalities, dynamic programing, statistical learning, and game dynamics.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "wayne",
+      "email": "wayne@cs.princeton.edu",
+      "name": "Kevin Wayne",
+      "first": "Kevin",
+      "last": "Wayne",
+      "profile-url": "http://www.cs.princeton.edu/~wayne/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wayne_450x600_1-1-1568x2091.jpg",
+      "office": "Corwin Hall 40",
+      "phone": "609-258-4455",
+      "research": "Expertise: Algorithms, data structures, optimization, computer science education, teaching computer science at scale.",
+      "rank": "Senior Lecturer",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mawebb",
+      "email": "mawebb@princeton.edu",
+      "name": "Michael A. Webb",
+      "first": "Michael A.",
+      "last": "Webb",
+      "profile-url": "https://cbe.princeton.edu/michael-webb",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/webb_450x600_1-1.jpg",
+      "office": "E-Quad A325",
+      "phone": "609-258-4595",
+      "research": "Biomolecular engineering, cellular and tissue engineering, complex materials and processing, energy and environment, theory and simulation.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering"
+      ]
+    },
+    {
+      "netid": "eweber",
+      "email": "eweber@princeton.edu",
+      "name": "Elke U. Weber",
+      "first": "Elke U.",
+      "last": "Weber",
+      "profile-url": "https://acee.princeton.edu/directory/elke-u-weber/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/weber_elke-450x600_1-1.jpg",
+      "office": "Andlinger Center 216",
+      "phone": "609-258-7640",
+      "research": "Questions at the intersection of psychology, economics, engineering, and policy that address the importance and role of descriptive/behavioral models of judgment and decision-making under risk and uncertainty and for decisions with long time horizons in environmental and energy-related decision making and policy. Psychologically appropriate ways to measure and model individual, group, or cultural differences in risk taking and time discounting across domains.",
+      "rank": "Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Psychology",
+        "Public Affairs"
+      ]
+    },
+    {
+      "netid": "smattw",
+      "email": "smweinberg@princeton.edu",
+      "name": "Matt Weinberg",
+      "first": "Matt",
+      "last": "Weinberg",
+      "profile-url": "http://www.cs.princeton.edu/~smattw/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/weinbergimg_1421-1-450x600_3-1.jpg",
+      "office": "194 Nassau St. 222",
+      "phone": "609-258-1796",
+      "research": "The intersection of algorithms and human incentives. Algorithmic mechanism design: including auction design, cryptocurrencies, and \"social good\"; algorithmic game theory; online algorithms. Algorithms and uncertainty.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "wentzlaf",
+      "email": "wentzlaf@Princeton.EDU",
+      "name": "David Wentzlaff",
+      "first": "David",
+      "last": "Wentzlaff",
+      "profile-url": "http://ee.princeton.edu/people/faculty/david-wentzlaff",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wentzlaff_david_fw-450x600_1-1.jpg",
+      "office": "E-Quad B228",
+      "phone": "609-258-7781",
+      "research": "Computer architecture, operating systems, sustainable computing, data center computing, cloud computing, multicore systems, manycore systems, microprocessor design, low-lower computer design, energy efficient computing.",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "whitece",
+      "email": "whitece@princeton.edu",
+      "name": "Claire White",
+      "first": "Claire",
+      "last": "White",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=whitece",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/cwhite_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad E326 E-Wing",
+      "phone": "609-258-6263",
+      "research": "Long-term behavior of low-CO2 concrete, and the mineralization processes during CO2 capture and storage. Durability of alkali-activated cements; atomic and nanoscale morphology of cementitious materials; reaction kinetics of cement formation; amorphous carbonate materials; combined modeling/experimental methodologies; Monte Carlo methods; ab-initio calculations; total scattering analysis.",
+      "rank": "Associate Professor",
+      "affiliations": [
+        "Andlinger Center for Energy and the Environment",
+        "Civil and Environmental Engineering"
+      ]
+    },
+    {
+      "netid": "aw8551",
+      "email": "awissa@princeton.edu",
+      "name": "Aimy Wissa",
+      "first": "Aimy",
+      "last": "Wissa",
+      "profile-url": "https://www.bamlab.princeton.edu/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/01/wissa_450x600-1568x2090.jpg",
+      "office": "Engineering Quadrangle D226",
+      "research": "Control, robotics and dynamical systems. Bioinspired design and fluids.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "gwysocki",
+      "email": "gwysocki@Princeton.EDU",
+      "name": "Gerard Wysocki",
+      "first": "Gerard",
+      "last": "Wysocki",
+      "profile-url": "http://ee.princeton.edu/people/faculty/gerard-wysocki",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/wysocki48ac6397-600x450_0_1-1.jpg",
+      "office": "E-Quad B324",
+      "phone": "609-258-8187",
+      "research": "Laser spectroscopy; broadly tunable laser systems; external cavity quantum cascade lasers; spectroscopic systems for remote and/or in-situ chemical sensing and spectroscopic trace-gas sensor networks",
+      "rank": "Associate Professor",
+      "affiliations": []
+    },
+    {
+      "netid": "sx5342",
+      "email": "saienxie@princeton.edu",
+      "name": "Saien Xie",
+      "first": "Saien",
+      "last": "Xie",
+      "profile-url": "https://ece.princeton.edu/people/saien-xie",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/02/Headshot_Saien-Xie_450x600.png",
+      "office": "Engineering Quadrangle B422",
+      "phone": "609-258-1459",
+      "research": "Syntheses of thin film materials; electrical and optical characterizations of nanoscale devices.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Princeton Institute for the Science and Technology of Materials"
+      ]
+    },
+    {
+      "netid": "nyao",
+      "email": "nyao@Princeton.EDU",
+      "name": "Nan Yao",
+      "first": "Nan",
+      "last": "Yao",
+      "profile-url": "http://www.princeton.edu/~nyao",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/nan_yao_photo_2017.09.15_450x600_1-1.jpg",
+      "office": "Andlinger Center for Energy and the Environment 33",
+      "phone": "609-258-6394",
+      "research": "Utilizing advanced imaging, diffraction, spectroscopy and in-situ techniques, in tandem with theoretical simulations, to study fundamentals of the structure-composition-processing-property-performance relations in complex materials such as nanostructured materials, biomaterials, organic/inorganic interfaces, block copolymers, catalysts, quasicrystals and functional nanomaterials.",
+      "rank": "Professor",
+      "affiliations": [
+        "Princeton Institute for the Science and Technology of Materials"
+      ]
+    },
+    {
+      "netid": "hy2",
+      "email": "h.yu@princeton.edu",
+      "name": "Huacheng Yu",
+      "first": "Huacheng",
+      "last": "Yu",
+      "profile-url": "https://www.cs.princeton.edu/~hy2/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/01/Yu-Huacheng_Khan_450x600.jpg",
+      "office": "Computer Science 310",
+      "phone": "609-258-5962",
+      "research": "Data structures and streaming algorithms.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mzhandry",
+      "email": "mzhandry@princeton.edu",
+      "name": "Mark Zhandry",
+      "first": "Mark",
+      "last": "Zhandry",
+      "profile-url": "https://www.cs.princeton.edu/~mzhandry/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/zhandry-img_1559-450x600_1-1.jpg",
+      "office": "194 Nassau St. 242",
+      "phone": "609-258-5135",
+      "research": "Cryptography; Computer science theory; Program obfuscation. Analyzing the effects that quantum computers will have on cryptography. Developing new cryptographic capabilities and improving the efficiency of these applications.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "mzondlo",
+      "email": "mzondlo@Princeton.edu",
+      "name": "Mark Zondlo",
+      "first": "Mark",
+      "last": "Zondlo",
+      "profile-url": "http://www.princeton.edu/cee/people/display_person/?netid=mzondlo",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/zondlo_450x600_1-1-1568x2091.jpg",
+      "office": "E-Quad C330",
+      "phone": "609-258-5037",
+      "research": "Climate; atmospheric sciences: sensors and remote sensing; cloud formation; the role of aerosol particles in atmospheric chemistry and air quality",
+      "rank": "Professor",
+      "affiliations": [
+        "Civil and Environmental Engineering"
+      ]
+    }
+  ]
 }

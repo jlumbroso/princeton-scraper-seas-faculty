@@ -4,7 +4,7 @@ Library to fetch and parse the public Princeton SEAS Faculty directory as a
 Python dictionary or JSON data source.
 """
 
-__version__ = '1.2.0'
+__version__ = '1.3.0'
 
 __author__ = "Jérémie Lumbroso <lumbroso@cs.princeton.edu>"
 
