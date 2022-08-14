@@ -35,7 +35,7 @@ jobs:
           args: run python -m princeton_scraper_seas_faculty --csv > ../feeds/index.csv
 
       - name: Commit generated ./json/index.json
-        uses: EndBug/add-and-commit@v4
+        uses: EndBug/add-and-commit@v9
         with:
           message: "Commit updated static feed"
           add: "*/index.*"
