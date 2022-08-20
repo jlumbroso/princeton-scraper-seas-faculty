@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-08-14T19:11:10.210668",
+  "timestamp": "2022-08-20T08:14:32.257380",
   "data": [
     {
       "netid": "rpa",
@@ -2115,12 +2115,12 @@
     {
       "netid": "ranr",
       "email": "ranr@cs.princeton.edu",
-      "name": "Ran  Raz",
+      "name": "Ran Raz",
       "first": "Ran",
       "last": "Raz",
       "profile-url": "https://www.cs.princeton.edu/people/profile/ranr",
       "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/raz_ran-450x600_1-1.jpg",
-      "office": "194 Nassau St. 240",
+      "office": "Computer Science 421",
       "phone": "609-258-2086",
       "research": "Complexity theory, with emphasis on proving lower bounds for computational models: Boolean and arithmetic circuit complexity, communication complexity, interactive proofs and probabilistically checkable proofs, randomness and derandomization, time-space lower bounds for learning.",
       "rank": "Professor",
