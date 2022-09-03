@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-08-27T08:14:51.907516",
+  "timestamp": "2022-09-03T08:12:54.822110",
   "data": [
     {
       "netid": "rpa",
@@ -49,6 +49,36 @@
       "affiliations": [
         "Operations Research and Financial Engineering"
       ]
+    },
+    {
+      "netid": "ca15",
+      "email": "ca15@princeton.edu",
+      "name": "Christine Allen-Blanchette",
+      "first": "Christine",
+      "last": "Allen-Blanchette",
+      "profile-url": "https://mae.princeton.edu/people/faculty/allen-blanchette",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/08/Blanchette_450x600-1568x2091.jpg",
+      "office": "Engineering Quadrangle D334",
+      "phone": "609-258-4083",
+      "research": "Physics-guided AI, and robotics.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Mechanical and Aerospace Engineering"
+      ]
+    },
+    {
+      "netid": "ma7837",
+      "email": "apostolaki@princeton.edu",
+      "name": "Maria Apostolaki",
+      "first": "Maria",
+      "last": "Apostolaki",
+      "profile-url": "https://ece.princeton.edu/people/maria-apostolaki",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/MariaApostolakiS_450x600.jpg",
+      "office": "Engineering Quadrangle B330",
+      "phone": "609-258-3996",
+      "research": "Design and construction of networked systems; security, blockchain and machine learning.",
+      "rank": "Assistant Professor",
+      "affiliations": []
     },
     {
       "netid": "appel",
@@ -974,7 +1004,7 @@
       "first": "Marcus",
       "last": "Hultmark",
       "profile-url": "http://fluids.princeton.edu",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/hultmark-1d4v1635-450x600_0-1.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Hultmark_450x600-1568x2091.jpg",
       "office": "E-Quad D222",
       "phone": "609-258-5689",
       "research": "Fluid mechanics; turbulence, its measurement and theory. Aerodynamics of wind turbines; developing and characterization of sensors for measurements of flow parameters related to atmospheric monitoring, climate models, unmanned aerial vehicles, and medical infusion monitoring to improve how treatments are administered.",
@@ -1235,6 +1265,22 @@
       ]
     },
     {
+      "netid": "korolova",
+      "email": "korolova@princeton.edu",
+      "name": "Aleksandra Korolova",
+      "first": "Aleksandra",
+      "last": "Korolova",
+      "profile-url": "https://www.korolova.com/",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/aleksandra_450x600.jpg",
+      "office": "Sherrerd Hall 309",
+      "research": "Societal impacts of algorithms and machine learning; privacy; algorithmic fairness and auditing.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science",
+        "Public Affairs"
+      ]
+    },
+    {
       "netid": "akosmrlj",
       "email": "andrej@princeton.edu",
       "name": "Andrej Kosmrlj",
@@ -1485,6 +1531,22 @@
       "rank": "Lecturer",
       "affiliations": [
         "Computer Science"
+      ]
+    },
+    {
+      "netid": "ml1348",
+      "email": "mlusardi@princeton.edu",
+      "name": "Marcella Lusardi",
+      "first": "Marcella",
+      "last": "Lusardi",
+      "profile-url": "https://cbe.princeton.edu/people/marcella-lusardi",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/08/lusardi_450x600.jpg",
+      "office": "Engineering Quadrangle A221",
+      "research": "Complex materials and processing; energy and environment; surface science and catalysis.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Chemical and Biological Engineering",
+        "Princeton Institute for the Science and Technology of Materials"
       ]
     },
     {
@@ -2823,6 +2885,22 @@
       "office": "194 Nassau St. 242",
       "phone": "609-258-5135",
       "research": "Cryptography; Computer science theory; Program obfuscation. Analyzing the effects that quantum computers will have on cryptography. Developing new cryptographic capabilities and improving the efficiency of these applications.",
+      "rank": "Assistant Professor",
+      "affiliations": [
+        "Computer Science"
+      ]
+    },
+    {
+      "netid": "zhonge",
+      "email": "zhonge@princeton.edu",
+      "name": "Ellen Zhong",
+      "first": "Ellen",
+      "last": "Zhong",
+      "profile-url": "https://www.cs.princeton.edu/people/profile/zhonge",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/ellen-zhong-headshot_450x600-1568x2092.jpg",
+      "office": "Computer Science 314",
+      "phone": "609-258-9075",
+      "research": "Computational biology, machine learning.",
       "rank": "Assistant Professor",
       "affiliations": [
         "Computer Science"
