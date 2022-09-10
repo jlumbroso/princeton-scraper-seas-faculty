@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-09-03T08:12:54.822110",
+  "timestamp": "2022-09-10T08:15:06.706396",
   "data": [
     {
       "netid": "rpa",
@@ -733,6 +733,20 @@
       ]
     },
     {
+      "netid": "tf4959",
+      "email": "tianmingfu@princeton.edu",
+      "name": "Tian-Ming Fu",
+      "first": "Tian-Ming",
+      "last": "Fu",
+      "profile-url": "https://ece.princeton.edu/people/tian-ming-fu",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/Tian-Ming-Fu-2_450x600-1568x2091.jpg",
+      "office": "Engineering Quadrangle B222",
+      "phone": "609-258-4645",
+      "research": "Optical microscopy and bioimaging; bioelectronics, flexible electronics, and nanotechnology; cell and developmental biology; tissue engineering; neuroscience",
+      "rank": "Assistant Professor",
+      "affiliations": []
+    },
+    {
       "netid": "mgarlock",
       "email": "mgarlock@Princeton.EDU",
       "name": "Maria Garlock",
@@ -839,6 +853,20 @@
       "affiliations": [
         "School of Engineering and Applied Science"
       ]
+    },
+    {
+      "netid": "sg5751",
+      "email": "sgopalakrishnan@princeton.edu",
+      "name": "Sarang Gopalakrishnan",
+      "first": "Sarang",
+      "last": "Gopalakrishnan",
+      "profile-url": "https://ece.princeton.edu/people/sarang-gopalakrishnan",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/sg_quantum_website_450x600.jpg",
+      "office": "Engineering Quadrangle B316",
+      "phone": "609-258-9914",
+      "research": "Dynamics of quantum systems and devices.",
+      "rank": "Assistant Professor",
+      "affiliations": []
     },
     {
       "netid": "dgraves",
@@ -2897,7 +2925,7 @@
       "first": "Ellen",
       "last": "Zhong",
       "profile-url": "https://www.cs.princeton.edu/people/profile/zhonge",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/ellen-zhong-headshot_450x600-1568x2092.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2022/09/Zhong-2_450x600.jpg",
       "office": "Computer Science 314",
       "phone": "609-258-9075",
       "research": "Computational biology, machine learning.",
