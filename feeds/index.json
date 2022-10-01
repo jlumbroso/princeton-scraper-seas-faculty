@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-09-24T08:13:25.786246",
+  "timestamp": "2022-10-01T08:14:20.527655",
   "data": [
     {
       "netid": "rpa",
@@ -625,22 +625,6 @@
       ]
     },
     {
-      "netid": "bee",
-      "email": "bee@princeton.edu",
-      "name": "Barbara Engelhardt",
-      "first": "Barbara",
-      "last": "Engelhardt",
-      "profile-url": "http://www.cs.princeton.edu/people/profile/bee",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/bee_1_2-1.jpg",
-      "office": "Computer Science 322",
-      "phone": "609-258-0933",
-      "research": "Machine learning, Bayesian statistics, statistical genetics, computational biology, quantitative genetics.",
-      "rank": "Associate Professor",
-      "affiliations": [
-        "Computer Science"
-      ]
-    },
-    {
       "netid": "jqfan",
       "email": "jqfan@Princeton.EDU",
       "name": "Jianqing Fan",
@@ -1036,7 +1020,7 @@
       "office": "E-Quad D222",
       "phone": "609-258-5689",
       "research": "Fluid mechanics; turbulence, its measurement and theory. Aerodynamics of wind turbines; developing and characterization of sensors for measurements of flow parameters related to atmospheric monitoring, climate models, unmanned aerial vehicles, and medical infusion monitoring to improve how treatments are administered.",
-      "rank": "Associate Professor",
+      "rank": "Professor",
       "affiliations": [
         "Mechanical and Aerospace Engineering"
       ]
@@ -1381,7 +1365,7 @@
       "office": "E-Quad B308",
       "phone": "609-258-8396",
       "research": "Machine learning, optimization, and statistics; the foundations of deep learning, non-convex optimization, and reinforcement learning.",
-      "rank": "Assistant Professor",
+      "rank": "Associate Professor",
       "affiliations": []
     },
     {
@@ -1777,7 +1761,7 @@
       "office": "E-Quad B326",
       "phone": "609-258-0814",
       "research": "Secure and privacy-preserving communication systems, including domains of privacy-enhancing technologies, trustworthy social systems, and Internet/network security. Research draws on techniques from computer networks and distributed systems, large-scale machine learning, complex networks/network science and applied cryptography.",
-      "rank": "Associate Professor",
+      "rank": "Professor",
       "affiliations": []
     },
     {
