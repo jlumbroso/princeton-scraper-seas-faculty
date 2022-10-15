@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/jlumbroso/princeton-scraper-seas-faculty/",
-  "timestamp": "2022-10-08T08:16:13.430961",
+  "timestamp": "2022-10-15T08:16:26.289455",
   "data": [
     {
       "netid": "rpa",
@@ -550,7 +550,7 @@
       "first": "Jia",
       "last": "Deng",
       "profile-url": "http://www.cs.princeton.edu/~jiadeng/",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/jiadeng_450x600_1-1.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/jia_dieng_450x600.jpg",
       "office": "Computer Science 423",
       "phone": "609-258-1203",
       "research": "Computer vision and machine learning; achieving human-level visual understanding by integrating perception, cognition, and learning.",
@@ -759,22 +759,6 @@
       "research": "Design and experimental analysis of architectures, protocols, and applications for next-generation wireless communication; and sensing systems with a focus on millimeter-wave and terahertz networks, Internet of Things, robotic wireless networks, and wireless security.",
       "rank": "Assistant Professor",
       "affiliations": []
-    },
-    {
-      "netid": "maia",
-      "email": "maia@cs.princeton.edu",
-      "name": "Maia Ginsburg",
-      "first": "Maia",
-      "last": "Ginsburg",
-      "profile-url": "http://www.cs.princeton.edu/~maia",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/ginsburg_450x600_1-1-1568x2091.jpg",
-      "office": "Corwin Hall 41",
-      "phone": "609-258-6484",
-      "research": "Expertise: Algorithms and data structures, general computer science.",
-      "rank": "Lecturer",
-      "affiliations": [
-        "Computer Science"
-      ]
     },
     {
       "netid": "aglaser",
@@ -1627,7 +1611,7 @@
       "first": "Luigi",
       "last": "Martinelli",
       "profile-url": "http://mae.princeton.edu/people/faculty/martinelli",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/martinel_1_1-1.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Martinelli_450x600-1568x2090.jpg",
       "office": "E-Quad D302C",
       "phone": "609-258-6652",
       "research": "Simulation of viscous flow past complex configurations with application to aircraft and ship design",
@@ -1724,7 +1708,7 @@
       "first": "Forrest",
       "last": "Meggers",
       "profile-url": "https://soa.princeton.edu/content/forrest-meggers",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/fmeggers_1_2-1.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Meggers_450x600-1568x2092.jpg",
       "office": "Architecture Building S03",
       "phone": "609-258-7831",
       "research": "Building systems design and integration; sustainable systems; renewable energy; optimization of energy systems; geothermal; seasonal energy storage; low temp hybrid solar; building materials; energy systems modeling; exergy analysis; thermodynamics and heat transfer; and heat pumps",
@@ -2302,7 +2286,7 @@
       "first": "Szymon",
       "last": "Rusinkiewicz",
       "profile-url": "http://www.cs.princeton.edu/~smr/",
-      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2021/08/rusinkiewicz_450x600_1-1.jpg",
+      "image-url": "https://engineering.princeton.edu/wp-content/uploads/2020/06/Rusinkiewicz_450x600.jpg",
       "office": "Computer Science Building 406",
       "phone": "609-258-7479",
       "research": "Computer graphics; acquisition and analysis of 3D shape and appearance; novel devices and methods for 3D printing; documentation of cultural heritage artifacts and sites; appearance and performance capture for digital humans.",
